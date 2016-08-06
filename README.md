@@ -14,6 +14,8 @@ Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliabl
   
 ## Simple installation procedure.
 
+If you can't open a zip file from kodi you must try the "Advanced installation procedure" (latter in this document)
+
 ## 1st - Install this repository in [Kodi*](https://kodi.tv/download/) 
 1.- Download repository.kodi.filesmonster-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/Filesmonster/releases) and save in a folder accesible from Kodi.
 
@@ -50,6 +52,15 @@ Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliabl
 - All the contents are provided by Filesmonster.com.
 - This Addon uses the ofical API cortesy of filesmonster.com
 
+
+#Advanced installation procedure
+- Using this installation procedure you don't need to "put" any zip file into your kodi system, you can use this alternative installation way also if you can't upload a zip file to your kodi system and browse to find it (p.e. some devices)
+- For using this installation method you one need to "write a simple url adress" and install from there the Filesmonster Repo.
+- After installing it you can follow the instructions to install addon. Both Addon and repo will be also auto-updated using this intallation procedure.
+
+
+- 
+
 .
 .
 .
@@ -70,6 +81,7 @@ El Addon Filesmonster.com for Kodi sólo muestra el funcionamiento de la  interf
  
  
 #Procedimiento sencillo de instalación
+Si no puedes abrir un archivo zip desde kodi debes llevar a cabo el procedimiento avanzado de instalación (más abajo en este documento)
 
 # Filesmonster Repo (Español)
 
