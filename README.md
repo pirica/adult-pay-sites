@@ -87,7 +87,7 @@ spaniard1978@mixmail.com
 
 # Repositorio Filesmonster (español)
 
-## Impotante sobre este Addon.
+## Importante sobre este Addon.
 - Puedes instalar el Addon Filesmonster (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, para acceder a todo el contenido de vídeos del catálogo de Filesmonster.com  (contenido adulto) usando tu cuenta premium.
 - Este addon no puede ser usado por menores de 18 años por el contenido incluído en el mismo.
 
@@ -126,7 +126,7 @@ Si no puedes subir nuestro arquivo zip con el respositorio a tu sistema Kodi int
 
 # 3º - El Addon y el repositorio se actualizan automáticamente.
 
-- Filesmonster addon and repo will updated automatically when a new version were avaliable, just be carefull to check "auto update" optino under settings tab of Filesmonster Addon and Filesmonster Repo (auto updated is checked by default).
+- El Addon Filesmonster y su repositorio se actualizarán de forma automática cuando exista una nueva versión disponible, asegúrate de que está marcada la opción "auto actualizar" en el apartado "ajustes" del repositorio y Addon, (esta opción viene activada por defecto tras la primera instalación).
 
 - Kodi's automatic update check cycle happens every 6 hours, so you have nothing to just use the addon and when an update were avaliable will ben instaled. But if you don't want to wait, you can force to upadate them, selecting the repo, displaying the context menu and choose "check for updates". The repo (and the addon inside) will be forced to update.
 
