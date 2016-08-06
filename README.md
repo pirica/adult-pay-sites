@@ -128,7 +128,7 @@ Si no puedes subir nuestro arquivo zip con el respositorio a tu sistema Kodi int
 
 - El Addon Filesmonster y su repositorio se actualizarán de forma automática cuando exista una nueva versión disponible, asegúrate de que está marcada la opción "auto actualizar" en el apartado "ajustes" del repositorio y Addon, (esta opción viene activada por defecto tras la primera instalación).
 
-- El ciclo del sistema de actualización automático de Kodi tiene lugar cada 6 horas, por lo que no tienes más que usar el Addon y cuando se detecte una actualización se procederá a la instalación automática de la misma. Si no quieres esperar puedes forzar la actualización en cualquier momento, desplegando el menú contextual sobre el repositorio y eligiendo "buscar actualizaiones", tanto el repositorio y como el addon se actualizarán si existe alguna nueva versión. 
+- El ciclo del sistema de actualización automático de Kodi tiene lugar cada 6 horas, por lo que no tienes más que usar el Addon y cuando se detecte una actualización se procederá a la instalación automática de la misma. Si no quieres esperar puedes forzar la actualización en cualquier momento, desplegando el menú contextual sobre el repositorio y eligiendo "comprobar actualizaciones", tanto el repositorio y como el addon se actualizarán si existe alguna nueva versión. 
 
 # 4º - Utilizando el Addon
 - Puedes cambiar el idioma de la interfaz en  "settings > language"
