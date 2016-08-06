@@ -58,11 +58,15 @@ If you can't open a zip file from kodi you must try the "Advanced installation p
 - For using this installation method you one need to "write a simple url adress" and install from there the Filesmonster Repo.
 - After installing it you can follow the instructions to install addon. Both Addon and repo will be also auto-updated using this intallation procedure.
 
-1 - Got to System > File browser
+1 - Go to System > File browser
 2-  Add a new source
 3-  Write this url in "path": http://filesmonster.gzpot.com/repo/
-4-  Write Filesmonster.repository in name field
-5.  Save changes, Filesmonter.repository is ready (follow the previous instruccions to install Filesmonster addon)
+4-  Write Filesmonster.repository.source in name field (or other one)
+5.  Save changes.
+6.  Got to System > addons > install from zip
+7.  Choose the soruce that you have created (filesmonster.repository.source )
+8.  Choose the zip file inside and install it
+7.  Filesmonter.repository is now ready in your kodi system (follow the previous instruccions to install Filesmonster addon)
 
 
 - 
@@ -117,9 +121,12 @@ to do
 - For using this installation method you one need to "write a simple url adress" and install from there the Filesmonster Repo.
 - After installing it you can follow the instructions to install addon. Both Addon and repo will be also auto-updated using this intallation procedure.
 
-1 - Got to System > File browser
+1 - Go to System > File browser
 2-  Add a new source
 3-  Write this url in "path": http://filesmonster.gzpot.com/repo/
-4-  Write Filesmonster.repository in name field
-5.  Save changes, Filesmonter.repository is ready (follow the previous instruccions to install Filesmonster addon)
-
+4-  Write Filesmonster.repository.source in name field (or other one)
+5.  Save changes.
+6.  Got to System > addons > install from zip
+7.  Choose the soruce that you have created (filesmonster.repository.source )
+8.  Choose the zip file inside and install it
+7.  Filesmonter.repository is now ready in your kodi system (follow the previous instruccions to install Filesmonster addon)
