@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.filesmonster" version="0.1.1" name="Filesmonster" provider-name="spaniard1978">
+<addon id="plugin.video.filesmonster" version="0.1.3" name="Filesmonster" provider-name="spaniard1978">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
 </requires>
