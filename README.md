@@ -1,5 +1,7 @@
 Instrucciones en español más abajo ;)
 
+![ScreenShot](https://github.com/spaniard1978/Filesmonster/blob/master/plugin.video.filesmonster/icon.png?raw=true)
+
 # Filesmonster Repo (English)
 
 Install Filesmonster Addon (+18) for Kodi using this repository
@@ -10,7 +12,7 @@ Acces to all Filesmonster.com video catalogue with your premium acount.
 
 Addon Filesmonster.com for Kodi only interface without oficial API yet.
  
-  
+
   
 ## Simple installation procedure.
 
