@@ -70,20 +70,12 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 8.  Choose the zip file inside and install it. The zip file will be downloaded and installed.
 7.  Filesmonter.repository is now ready in your kodi system (follow the previous instruccions to install Filesmonster addon)
 8.  You can delete the source that you have added because it will not be necesary any more, because repo and addon will be updated automatically.
+  
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-. 
-.
+  
+.......................................................................................................................................
+  
+  
 
 # Repositorio Filesmonster (Español)
 
