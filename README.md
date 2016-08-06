@@ -7,6 +7,9 @@ Install Filesmonster Addon (+18) for Kodi usando este repositorio
 
 # 1st - Install this repository in Kodi
 to do
+Download zip file from  "releases" tab
+https://github.com/spaniard1978/Filesmonster/releases/download/repo/repository.kodi.filesmonster-1.0.0.zip
+
 
 # 2nd - Install Filesmonster Addon
 to do
@@ -30,6 +33,8 @@ Instala el Addon de Filesmonster (+18) para Kodi usando este repositorio
 
 # 1st - Instala este repositorio in Kodi
 to do
+Descarga el archivo zip desde la pestaña "releases"
+https://github.com/spaniard1978/Filesmonster/releases/download/repo/repository.kodi.filesmonster-1.0.0.zip
 
 # 2nd - Instala el Addon Filesmonster
 to do
