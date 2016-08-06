@@ -17,7 +17,7 @@ Release notes:
 
 If you can't upload or open our repository zip file to kodi you must try the "Advanced installation procedure" (latter in this document).
 
-## 1st - Install this repository in [Kodi*](https://kodi.tv/download/) 
+# 1st - Install this repository in [Kodi*](https://kodi.tv/download/) 
 1.- Download repository.kodi.filesmonster-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/Filesmonster/releases) and save in a folder accesible from Kodi.
 
 2.- In Kodi go to system > settings > addons > install from zip
@@ -28,7 +28,7 @@ If you can't upload or open our repository zip file to kodi you must try the "Ad
   
    
 
-## 2nd - Install Filesmonster Addon
+# 2nd - Install Filesmonster Addon
 
 1.- Go to system > settings > addons > install from repository
 
@@ -40,13 +40,13 @@ If you can't upload or open our repository zip file to kodi you must try the "Ad
   
   
 
-## 3rd - Addon and Repo will be updated automatically
+# 3rd - Addon and Repo will be updated automatically
 
 - Filesmonster addon and repo will updated automatically when a new version were avaliable, just be carefull to check "auto update" optino under settings tab of Filesmonster Addon and Filesmonster Repo (auto updated is checked by default).
 
 - Kodi's automatic update check cycle happens every 6 hours, so you have nothing to just use the addon and when an update were avaliable will ben instaled. But if you don't want to wait, you can force to upadate them, selecting the repo, displaying the context menu and choose "check for updates". The repo (and the addon inside) will be forced to update.
 
-## 4th - Using the Addon
+# 4th - Using the Addon
 - You can change the language from English to Spanish on  "settings > language"
 - You need a premium acount in www.filesmonster.com to wach and download the videos, without this acount you only can browse betwen the full video catallogue from filesmonster.com, but not play them.
 - You can watch movies online, download, or "save to your filesmonster favorite list", just hold "menu" over a video and choose the apropiate option from the context menu.
@@ -54,7 +54,7 @@ If you can't upload or open our repository zip file to kodi you must try the "Ad
 - This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
 
 
-#Advanced installation procedure
+##Advanced installation procedure
 Only if you can't load the zip file from your Kodi system (Simple installation procedure is allways recomended if is avaliable)
 - Using this installation procedure you don't need to "put" any zip file into your Kodi system, you can also use this alternative installation way if you can't upload a zip file to your kodi system or browse to find it (some devices)
 - To use this installation method you only one need to "write a simple url adress" in order to install fron this url adress the Filesmonster Repo.
