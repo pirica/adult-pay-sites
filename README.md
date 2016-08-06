@@ -8,7 +8,7 @@ Instrucciones en español más abajo ;)
 - This addon can't be used by people under 18 year old due the content avaliable on it.
 
 Release notes:
-- Actually just for test propouses. (beta version)
+- Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version)
 - Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
  
 
@@ -24,7 +24,7 @@ If you can't upload or open our repository zip file to kodi you must try the "Ad
 
 3.- Browse and choose the zip file you have downloaded and install it
 
-4.- Filesmonster.repository has now in [Kodi*](https://kodi.tv/download/) ready to install and periodically update the Filesmonster addon that is inside
+4.- Filesmonster.repository is now in [Kodi*](https://kodi.tv/download/) ready to install and periodically update the Filesmonster addon that is inside
   
    
 
@@ -91,24 +91,24 @@ spaniard1978@mixmail.com
 - Puedes instalar el Addon Filesmonster (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, para acceder a todo el contenido de vídeos del catálogo de Filesmonster.com  (contenido adulto) usando tu cuenta premium.
 - Este addon no puede ser usado por menores de 18 años por el contenido incluído en el mismo.
 
-Release notes:
-- Actually just for test propouses. (beta version)
-- Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
+Notas de esta versión:
+- Actualmente sólo para pruebas (test), interfaz totalmente operativa pero visualiza sólo uno de prueba (free to use). (beta version)
+- No incluye aún la API oficiald e fiesmoster.com (disponible en breve)
  
 
   
-## Simple installation procedure.
+## Procedimiento simple de instalación.
 
-If you can't upload or open our repository zip file to kodi you must try the "Advanced installation procedure" (latter in this document).
+Si no puedes subir nuestro arquivo zip con el respositorio a tu sistma Kodi intenta el "Procedimiento avanzado de instalación".
 
-# 1st - Install this repository in [Kodi*](https://kodi.tv/download/) 
-1.- Download repository.kodi.filesmonster-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/Filesmonster/releases) and save in a folder accesible from Kodi.
+# 1º - Instala the repositorio en [Kodi*](https://kodi.tv/download/) 
+1.- Descarga el archivo repository.kodi.filesmonster-xxx.zip en la pestaña "releases" o [desde aquí](https://github.com/spaniard1978/Filesmonster/releases) y guárdalo en algún lugar accesible desde Kodi..
 
-2.- In Kodi go to system > settings > addons > install from zip
+2.- En Kodi ve  sistema > ajustes > addons > instalar desde archivo zip
 
-3.- Browse and choose the zip file you have downloaded and install it
+3.- Navega entre las carpetas y localiza el archivo zip que has descargado y procede a instalarlo.
 
-4.- Filesmonster.repository has now in [Kodi*](https://kodi.tv/download/) ready to install and periodically update the Filesmonster addon that is inside
+4.- El repositorio Filesmonster.repository está ahora en [Kodi*](https://kodi.tv/download/) listo para instalar y periódicamente actualizar, el addon Filesmonser que contiene. 
   
    
 
