@@ -93,13 +93,13 @@ spaniard1978@mixmail.com
 
 Notas de esta versión:
 - Actualmente sólo para pruebas (test), interfaz totalmente operativa pero visualiza sólo uno de prueba (free to use). (beta version)
-- No incluye aún la API oficiald e fiesmoster.com (disponible en breve)
+- No incluye aún la API oficial de fiesmoster.com (disponible en breve)
  
 
   
 ## Procedimiento simple de instalación.
 
-Si no puedes subir nuestro arquivo zip con el respositorio a tu sistma Kodi intenta el "Procedimiento avanzado de instalación".
+Si no puedes subir nuestro arquivo zip con el respositorio a tu sistema Kodi intenta el "Procedimiento avanzado de instalación".
 
 # 1º - Instala the repositorio en [Kodi*](https://kodi.tv/download/) 
 1.- Descarga el archivo repository.kodi.filesmonster-xxx.zip en la pestaña "releases" o [desde aquí](https://github.com/spaniard1978/Filesmonster/releases) y guárdalo en algún lugar accesible desde Kodi..
@@ -112,19 +112,19 @@ Si no puedes subir nuestro arquivo zip con el respositorio a tu sistma Kodi inte
   
    
 
-# 2nd - Install Filesmonster Addon
+# 2º - Instala el Addon Filesmonster
 
-1.- Go to system > settings > addons > install from repository
+1.- Ve a sistema > ajustes > addons > instalar desde un repositorio
 
-2.- Choose Filesmonster.repository > video addons
+2.- Elige el repositorio Filesmonster.repository > addons de vídeo
 
-3.- Install from there Fiesmonster Addon
+3.- Instala desde allí el Addon Fiesmonster
 
-4.- Now you can find Filesmonster addon under  video tab  in Kodi main menu
+4.- Ahora ya puedes encontrar el addon Filesmonster addon en el apartado video del menú principal de Kodi.
   
   
 
-# 3rd - Addon and Repo will be updated automatically
+# 3º - El Addon y el repositorio se actualizan automáticamente.
 
 - Filesmonster addon and repo will updated automatically when a new version were avaliable, just be carefull to check "auto update" optino under settings tab of Filesmonster Addon and Filesmonster Repo (auto updated is checked by default).
 
