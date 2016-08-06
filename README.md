@@ -1,10 +1,10 @@
 Instrucciones en español más abajo ;)
 
-![ScreenShot](https://github.com/spaniard1978/Filesmonster/blob/master/plugin.video.filesmonster/icon.png?raw=true)
+![ScreenShot](https://github.com/spaniard1978/Filesmonster/blob/master/screenshots/logo_addon.jpg?raw=true)
 
 # Filesmonster Repo (English)
 
-Install Filesmonster Addon (+18) for Kodi using this repository
+Install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository
 
 Actually just for test propouses.
 
@@ -16,14 +16,14 @@ Addon Filesmonster.com for Kodi only interface without oficial API yet.
   
 ## Simple installation procedure.
 
-## 1st - Install this repository in Kodi
+## 1st - Install this repository in [Kodi*](https://kodi.tv/download/) 
 1.- Download repository.kodi.filesmonster-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/Filesmonster/releases) and save in a folder accesible from Kodi.
 
 2.- Go to system > settings > addons > install from zip
 
 3.- Choose the zip file you have downloaded and install it
 
-4.- Filesmonster.repository has now in Kodi.
+4.- Filesmonster.repository has now in [Kodi*](https://kodi.tv/download/) .
   
    
 
@@ -57,9 +57,9 @@ Addon Filesmonster.com for Kodi only interface without oficial API yet.
 
 # Filesmonster Repo (Español)
 
-Instala el Addon de Filesmonster (+18) para Kodi usando este repositorio
+Instala el Addon de Filesmonster (+18) para [Kodi*](https://kodi.tv/download/)  usando este repositorio
 
-## 1º - Instala este repositorio en Kodi
+## 1º - Instala este repositorio en [Kodi*](https://kodi.tv/download/) 
 
 Descarga el archivo repository.kodi.filesmonster-xxx.zip desde la pestaña "releases"  o directamente [desde aquí](https://github.com/spaniard1978/Filesmonster/releases)
 
