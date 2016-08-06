@@ -73,10 +73,10 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
   
 
 ## Contribute to Addon source code and add new language support.
-. Under the "source code" folder you can find all the files that build this addon.
+- Under the "source code" folder you can find all the files that build this addon.
 You are free to Fork and make pull request with your changes and improvements. They wil be take under consideraton to include it (after testing them) into a future updatee.
-. To add new languages just copy&paste the "language" part in main.py  an adapt it file and edit resources/settings.xml to add the new language in settins menu.
-. You can also can contribute translating the addon  adding a new file under "tralation" folders  and I will include in main code.
+- To add new languages just copy&paste the "language" part in main.py  an adapt it file and edit resources/settings.xml to add the new language in settins menu.
+- You can also can contribute translating the addon  adding a new file under "tralation" folders  and I will include in main code.
   
 .................................................................................................................................................................................
   
@@ -155,8 +155,8 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 
 
 ## Contribute to Addon source code and add new language support.
-. Under the "source code" folder you can find all the files that build this addon.
+- Under the "source code" folder you can find all the files that build this addon.
 You are free to Fork and make pull request with your changes and improvements. They wil be take under consideraton to include it (after testing them) into a future updatee.
-. To add new languages just copy&paste the "language" part in main.py  an adapt it file and edit resources/settings.xml to add the new language in settins menu.
-. You can also can contribute translating the addon  adding a new file under "tralation" folders  and I will include in main code.
+- To add new languages just copy&paste the "language" part in main.py  an adapt it file and edit resources/settings.xml to add the new language in settins menu.
+- You can also can contribute translating the addon  adding a new file under "tralation" folders  and I will include in main code.
   
