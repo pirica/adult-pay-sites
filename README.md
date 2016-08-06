@@ -9,7 +9,7 @@ Install Filesmonster Addon (+18) for Kodi usando este repositorio
 to do
 Download zip file from  "releases" tab
 
-<img src=https://github.com/spaniard1978/Filesmonster/releases/download/repo/repository.kodi.filesmonster-1.0.0.zip>
+https://github.com/spaniard1978/Filesmonster/releases/download/repo/repository.kodi.filesmonster-1.0.0.zip
 
 
 # 2nd - Install Filesmonster Addon
@@ -25,7 +25,7 @@ Acces to all Filesmonster.com video catalogue with your premium acount.
 
 Addon Filesmonster.com for Kodi only interface without oficial API yet.
 
-http://thumbs.subefotos.com/199baf6c268e100e14cfc6921d940f34o.jpg
+
 
 
 
