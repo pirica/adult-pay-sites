@@ -76,7 +76,7 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 - Under the "source code" folder you can find all the files that build this addon.
 You are free to Fork and make pull request with your changes and improvements. They wil be take under consideraton to include it (after testing them) into a future updatee.
 - To add new languages just copy&paste the "language" part in main.py  an adapt it file and edit resources/settings.xml to add the new language in settins menu.
-- You can also can contribute translating the addon  adding a new file under "traslations" folder  and follow instructions at readme file inside.
+- You can also can contribute translating the addon  adding a new file under "translations" folder  and follow instructions at readme file inside.
 
 # Mail contact:
 spaniard1978@mixmail.com
@@ -157,11 +157,11 @@ Sólo si no puedes subir el archivo zip a tu sistema kodi podrás usar este sist
 
 
 
-## Contribute to Addon source code and add new language support.
-- Under the "source code" folder you can find all the files that build this addon.
-You are free to Fork and make pull request with your changes and improvements. They wil be take under consideraton to include it (after testing them) into a future updatee.
-- To add new languages just copy&paste the "language" part in main.py  an adapt it file and edit resources/settings.xml to add the new language in settins menu.
-- You can also can contribute translating the addon  adding a new file under "traslations" folder  and follow instructions at readme file inside.
+## Contribuye al código fuente del Addon y añade nuevos idiomas..
+- Bajo la carpeta  "source code" encontrarás todos los archivos que conforman en Addon.
+Puedes hacer un Fork para introducir cambios y hacer solicituedes de "pull request" de los mismos. Tras ser revisados serán tenidos en cuenta para introducirlos en las siguientes versiones actualizadas del addon
+- Para añadir un nuevo idioma tan sólo copia y pega la parte "language" del archivo main.py  y adáptala  y eita  resources/settings.xml para añadir un nuevo idioma en el menú.
+- Puedes también colaborar traduciendo los menús del addon  añadiendo un nuevo archivo en la capreta "translations" y sigue las instrucciones del archivo readme que contiene.
 
-# Mail contact:
+# Correo de contacto:
 spaniard1978@mixmail.com
