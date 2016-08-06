@@ -73,11 +73,11 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
   
 
   
-.......................................................................................................................................
+..................................................................................................................................................................................................................
   
   
 
-# Repositorio Filesmonster (Español)
+# Repositorio Filesmonster (español)
 
 ## Important about this Addon.
 -You can install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount.
