@@ -25,9 +25,7 @@ Acces to all Filesmonster.com video catalogue with your premium acount.
 
 Addon Filesmonster.com for Kodi only interface without oficial API yet.
 
-
-
-
+http://thumbs.subefotos.com/199baf6c268e100e14cfc6921d940f34o.jpg
 
 
 
