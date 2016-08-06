@@ -11,6 +11,7 @@ Acces to all Filesmonster.com video catalogue with your premium acount.
 Addon Filesmonster.com for Kodi only interface without oficial API yet.
 
 
+## Esay installation procedure.
 ## Installation instructions.
 
 ## 1st - Install this repository in Kodi
@@ -28,7 +29,8 @@ Addon Filesmonster.com for Kodi only interface without oficial API yet.
 
 
 ## 3rd - Addon updates automatically
-Addon will update when a new version were avaliable, just be carefull to chek "auto update" under settings tab of Filesmonster Addon.
+- Addon will update when a new version were avaliable, just be carefull to chek "auto update" under settings tab of Filesmonster Addon.
+- Update check cycle happens every 6 hours, but you can't wait just force to upadate a repo or Addon before just make display the context menu and choose "check for updates".
 
 
 
@@ -38,20 +40,20 @@ Addon will update when a new version were avaliable, just be carefull to chek "a
 
 
 
-
+#Procedimiento sencillo de instalación
 # Filesmonster Repo (Español)
 
 Instala el Addon de Filesmonster (+18) para Kodi usando este repositorio
 
-## 1st - Instala este repositorio in Kodi
+## 1º - Instala este repositorio in Kodi
 to do
 Descarga el archivo repository.kodi.filesmonster-xxx.zip desde la pestaña "releases"  o directamente [desde aquí](https://github.com/spaniard1978/Filesmonster/releases)
 
 
-## 2nd - Instala el Addon Filesmonster
+## 2º - Instala el Addon Filesmonster
 to do
 
-## 3rd - El Addon se actualiza automáticamnte
+## 3º - El Addon se actualiza automáticamnte
 to do
 
 
