@@ -1,18 +1,14 @@
 Instrucciones en español más abajo ;)
 
-![ScreenShot](https://github.com/spaniard1978/Filesmonster/blob/master/screenshots/logo_addon.jpg?raw=true)
-![ScreenShot](https://github.com/spaniard1978/Filesmonster/blob/master/screenshots/logo_repo.jpg?raw=true)
-
 
 # Filesmonster Repo (English)
 
-Install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository
+## Important about this Addon.
+-You can install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository, to acces to all Filesmonster.com video catalogue (adult content) with your premium acount.
+T-his addon can't be used by people under 18 year old due the content avaliable on it.
 
-Actually just for test propouses.
-
-Acces to all Filesmonster.com video catalogue with your premium acount.
-
-Addon Filesmonster.com for Kodi only interface without oficial API yet.
+Actually just for test propouses. (beta version)
+Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
  
 
   
@@ -47,14 +43,32 @@ Addon Filesmonster.com for Kodi only interface without oficial API yet.
 
 - Update check cycle happens every 6 hours, but you can't wait just force to upadate a repo or Addon before just make display the context menu and choose "check for updates".
 
+## 4th - Using the Addon
+- You can change the language into Spanish on  "settings > language"
+- You need a premium acount in www.filesmonster.com to wach the videos, without this acount you only can browse all the videos but not play them.
+- You can watch movies online, download, or "save to your filesmonster favorite list"
+- All the contents are provided by Filesmonster.com.
+- This Addon uses the ofical API cortesy of filesmonster.com
 
+.
+.
+.
+.
+.
+.
+.
+.
+    
+.
 
+## Importante sobre este Adoon.
+- Puedes instalar el  Addon Filesmonster (+18) para [Kodi*](https://kodi.tv/download/) desde este repositorio, con el podrás acceder a todo el catálogo de vídeos y películas de Filesmonser.com (de contenido adulto) usando tu cuenta premium.
+- No está permitido el uso de este addon a menores de 18 años por el tipo de contenido que ofrece filesmonster.com
 
-
-
-
-
-
+Actualmente para pruebas (versión beta)
+El Addon Filesmonster.com for Kodi sólo muestra el funcionamiento de la  interface sin incluír la API oficial de momento (disponible en breve)
+ 
+ 
 #Procedimiento sencillo de instalación
 
 # Filesmonster Repo (Español)
@@ -71,6 +85,13 @@ to do
 
 ## 3º - El Addon se actualiza automáticamnte
 to do
+
+## 4º - Usando el Addon
+- Cambia el idioma del addon a Español desde el menú "settings > language"
+- Necesitas tener una cuenta premium en www.filesmonster.com para poder visualizar los vídeos, sin cuenta premium podrás navegar entre lso videos que se ofrecen en dicho servicio.
+- Podrás ver online los vídeos del catálogo de filesmonster.com, descargarlos y guardarlos en tu lista de favoritos de filesmonster.
+- Todos los vídeos son ofertados por flesmonster.com.
+- El addons usa la API oficial por cortesía de Filesmonster.com
 
 
 Actualmente sólo para pruebas
