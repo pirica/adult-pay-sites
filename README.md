@@ -2,7 +2,7 @@ Instrucciones en español más abajo ;)
 
 # Filesmonster Repo (English)
 
-Install Filesmonster Addon (+18) for Kodi usando este repositorio
+Install Filesmonster Addon (+18) for Kodi using this repository
 
 
 ## 1st - Install this repository in Kodi
