@@ -4,26 +4,27 @@ Instrucciones en español más abajo ;)
 # Filesmonster Repo (English)
 
 ## Important about this Addon.
--You can install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository, to acces to all Filesmonster.com video catalogue (adult content) with your premium acount.
-T-his addon can't be used by people under 18 year old due the content avaliable on it.
+-You can install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount.
+-This addon can't be used by people under 18 year old due the content avaliable on it.
 
-Actually just for test propouses. (beta version)
-Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
+Release notes:
+- Actually just for test propouses. (beta version)
+- Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
  
 
   
 ## Simple installation procedure.
 
-If you can't open a zip file from kodi you must try the "Advanced installation procedure" (latter in this document)
+If you can't upload or open our repository zip file to kodi you must try the "Advanced installation procedure" (latter in this document).
 
 ## 1st - Install this repository in [Kodi*](https://kodi.tv/download/) 
 1.- Download repository.kodi.filesmonster-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/Filesmonster/releases) and save in a folder accesible from Kodi.
 
-2.- Go to system > settings > addons > install from zip
+2.- In Kodi go to system > settings > addons > install from zip
 
-3.- Choose the zip file you have downloaded and install it
+3.- Browse and choose the zip file you have downloaded and install it
 
-4.- Filesmonster.repository has now in [Kodi*](https://kodi.tv/download/) .
+4.- Filesmonster.repository has now in [Kodi*](https://kodi.tv/download/) ready to install and periodically update the Filesmonster addon that is inside
   
    
 
@@ -31,25 +32,25 @@ If you can't open a zip file from kodi you must try the "Advanced installation p
 
 1.- Go to system > settings > addons > install from repository
 
-2.- Choose Filesmonster.reposytory > video addons
+2.- Choose Filesmonster.repository > video addons
 
 3.- Install from there Fiesmonster Addon
 
-4.- You can find this addon under your video tab 
+4.- Now you can find Filesmonster addon under  video tab  in Kodi main menu
   
   
 
-## 3rd - Addon and repo will be updated automatically
+## 3rd - Addon and Repo will be updated automatically
 
-- Addon will update when a new version were avaliable, just be carefull to chek "auto update" under settings tab of Filesmonster Addon.
+- Filesmonster addon and repo will updated automatically when a new version were avaliable, just be carefull to check "auto update" optino under settings tab of Filesmonster Addon and Filesmonster Repo (auto updated is checked by default).
 
-- Update check cycle happens every 6 hours, but you can't wait just force to upadate a repo or Addon before just make display the context menu and choose "check for updates".
+- Kodi's automatic update check cycle happens every 6 hours, so you have nothing to just use the addon and when an update were avaliable will ben instaled. But if you don't want to wait, you can force to upadate them, selecting the repo, displaying the context menu and choose "check for updates". The repo (and the addon inside) will be forced to update.
 
 ## 4th - Using the Addon
-- You can change the language into Spanish on  "settings > language"
-- You need a premium acount in www.filesmonster.com to wach the videos, without this acount you only can browse all the videos but not play them.
-- You can watch movies online, download, or "save to your filesmonster favorite list"
-- All the contents are provided by Filesmonster.com.
+- You can change the language from English to Spanish on  "settings > language"
+- You need a premium acount in www.filesmonster.com to wach and download the videos, without this acount you only can browse betwen the full video catallogue from filesmonster.com, but not play them.
+- You can watch movies online, download, or "save to your filesmonster favorite list", just hold "menu" over a video and choose the apropiate option from the context menu.
+- All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the 
 - This Addon uses the ofical API cortesy of filesmonster.com
 
 
