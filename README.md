@@ -60,7 +60,7 @@ If you can't open a zip file from kodi you must try the "Advanced installation p
 
 1 - Got to System > File browser
 2-  Add a new source
-3-  Write this url in "path"
+3-  Write this url in "path": http://filesmonster.gzpot.com/repo/
 4-  Write Filesmonster.repository in name field
 5.  Save changes, Filesmonter.repository is ready (follow the previous instruccions to install Filesmonster addon)
 
@@ -119,7 +119,7 @@ to do
 
 1 - Got to System > File browser
 2-  Add a new source
-3-  Write this url in "path"
+3-  Write this url in "path": http://filesmonster.gzpot.com/repo/
 4-  Write Filesmonster.repository in name field
 5.  Save changes, Filesmonter.repository is ready (follow the previous instruccions to install Filesmonster addon)
 
