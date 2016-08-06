@@ -4,8 +4,8 @@ Instrucciones en español más abajo ;)
 # Filesmonster Repo (English)
 
 ## Important about this Addon.
--You can install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount.
--This addon can't be used by people under 18 year old due the content avaliable on it.
+- You can install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount.
+- This addon can't be used by people under 18 year old due the content avaliable on it.
 
 Release notes:
 - Actually just for test propouses. (beta version)
@@ -87,9 +87,9 @@ spaniard1978@mixmail.com
 
 # Repositorio Filesmonster (español)
 
-## Important about this Addon.
--You can install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount.
--This addon can't be used by people under 18 year old due the content avaliable on it.
+## Impotante sobre este Addon.
+- Puedes instalar el Addon Filesmonster (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, para acceder a todo el contenido de vídeos del catálogo de Filesmonster.com  (contenido adulto) usando tu cuenta premium.
+- Este addon no puede ser usado por menores de 18 años por el contenido incluído en el mismo.
 
 Release notes:
 - Actually just for test propouses. (beta version)
