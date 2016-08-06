@@ -1,0 +1,7 @@
+Versión 0.1.3: Changes the download progress system and solved problem playgin downloading files under some platforms
+
+Versión 0.1.0: Full addon release, without filesmonster.com API implementation
+
+Version 0.0.2: First release (beta)
+
+Version 0.0.1: First release (alfa)
