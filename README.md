@@ -47,9 +47,9 @@ If you can't upload or open our repository zip file to kodi you must try the "Ad
 - Kodi's automatic update check cycle happens every 6 hours, so you have nothing to just use the addon and when an update were avaliable will ben instaled. But if you don't want to wait, you can force to upadate them, selecting the repo, displaying the context menu and choose "check for updates". The repo (and the addon inside) will be forced to update.
 
 # 4th - Using the Addon
-- You can change the language from English to Spanish on  "settings > language"
+- You can change the language of the interface under  "settings > language"
 - You need a premium acount in www.filesmonster.com to wach and download the videos, without this acount you only can browse betwen the full video catallogue from filesmonster.com, but not play them.
-- You can watch movies online, download, or "save to your filesmonster favorite list", just hold "menu" over a video and choose the apropiate option from the context menu.
+- You can watch movies online, download and "add to your filesmonster favorite list", just hold "menu" over a video and choose the apropiate option from the context menu.
 - All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the [Legal rules"](http://filesmonster.com/rules/) from filemonster.com for more information.
 - This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
 
@@ -65,7 +65,7 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 3.  Write this url in "path" field: http://filesmonster.gzpot.com/repo/
 4.  Write Filesmonster.repository.source in name field (or other one)
 5.  Save changes.
-6.  Go back to Kodi's main menu and choose System > addons > install from zip
+6.  Go back to Kodi's main menu and choose System > settings > addons > install from zip
 7.  Choose the soruce that you have been created (filesmonster.repository.source )
 8.  Choose the zip file inside and install it. The zip file will be downloaded and installed.
 7.  Filesmonter.repository is now ready in your kodi system (follow the previous instruccions to install Filesmonster addon)
@@ -130,30 +130,30 @@ Si no puedes subir nuestro arquivo zip con el respositorio a tu sistema Kodi int
 
 - El ciclo del sistema de actualización automático de Kodi tiene lugar cada 6 horas, por lo que no tienes más que usar el Addon y cuando se detecte una actualización se procederá a la instalación automática de la misma. Si no quieres esperar puedes forzar la actualización en cualquier momento, desplegando el menú contextual sobre el repositorio y eligiendo "buscar actualizaiones", tanto el repositorio y como el addon se actualizarán si existe alguna nueva versión. 
 
-# 4th - Using the Addon
-- You can change the language from English to Spanish on  "settings > language"
-- You need a premium acount in www.filesmonster.com to wach and download the videos, without this acount you only can browse betwen the full video catallogue from filesmonster.com, but not play them.
-- You can watch movies online, download, or "save to your filesmonster favorite list", just hold "menu" over a video and choose the apropiate option from the context menu.
-- All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the [Legal rules"](http://filesmonster.com/rules/) from filemonster.com for more information.
-- This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
+# 4º - Utilizando el Addon
+- Puedes cambiar el idioma de la interfaz en  "settings > language"
+- Necesitas una cuenta premium en www.filesmonster.com para poder ver los vídeos, sin ella podrás navegar por el catálogo de filesmonster.com pero no podrás ni visualizar ni descargar ninguno de los vídeos.
+- Puedes ver las películas online, descargalas, o "añadirlas a tu lista de favoritos en filesmoster.com", tan sólo presionando "menu" sobre cada vídeo y eligiendo la opción que desees en cada momento.
+- Todos los contenidos son ofrecidos por Filesmonster.com bajo sus normas de uso (sólo se permite la distribución de contenido legal subido por sus legítimos propietarios (los propios estudios) ). Lee el ["Aviso Legal"](http://filesmonster.com/rules/) de filemonster.com para más información.
+- Este Addon usa la API ofical por cortesía de filesmonster.com.
 
 
-##Advanced installation procedure
-Only if you can't load the zip file from your Kodi system (Simple installation procedure is allways recomended if is avaliable)
-- Using this installation procedure you don't need to "put" any zip file into your Kodi system, you can also use this alternative installation way if you can't upload a zip file to your kodi system or browse to find it (some devices)
-- To use this installation method you only one need to "write a simple url adress" in order to install fron this url adress the Filesmonster Repo.
-- After installing it you can follow the instructions to install Fillesmonster addon as has been explained previously. Both Addon and repo will be also auto-updated too if you use this installation procedure.
+##Procedimiento avanzado de instalación
+Sólo si no puedes subir el archivo zip a tu sistema kodi podrás usar este sistema alternativo (el procedimiento simple es siempre el recomendado si es posible) 
+- Usando este sistema de instalación no necesitas "situar" ningún archivo zip dentro del sistema kodi, puedes usar esta alternativa si no puedes subir el archivo zip a kodi o navegar para encontrarlo (e algunos dispositivos)
+- Para usar este procedimiento sólo tendrás que "escribir unha simple dirección url" para poder instalar desde esa url el repositorio Filesmonster. 
+- Trsa instalarlo deberás seguir las mismas intruciones, indicadas anteriormente, para instalar el Addon. Tanto el addon como el repositorio también se actualizarán automáticamente tanto si se usa este procedimiento avanzado como el simple.
 
-1. Go to System > File browser
-2.  Chosse "Add a new source"
-3.  Write this url in "path" field: http://filesmonster.gzpot.com/repo/
-4.  Write Filesmonster.repository.source in name field (or other one)
-5.  Save changes.
-6.  Go back to Kodi's main menu and choose System > addons > install from zip
-7.  Choose the soruce that you have been created (filesmonster.repository.source )
-8.  Choose the zip file inside and install it. The zip file will be downloaded and installed.
-7.  Filesmonter.repository is now ready in your kodi system (follow the previous instruccions to install Filesmonster addon)
-8.  You can delete the source that you have added because it will not be necesary any more, because repo and addon will be updated automatically.
+1.  Ve a  Sistema > Explorador de archivos
+2.  Elige "Añadir una nueva fuente"
+3.  Escribe esta url en el campo "ruta": http://filesmonster.gzpot.com/repo/
+4.  Escribe Filesmonster.repository.source en el campo nombre (o cualquier otro)
+5.  Guarda los cambios.
+6.  Vuelve al menú principal de Kodi y ve a  Sistema > ajustes > addons > instalar desde un archivo zip.
+7.  Elige la fuente que has creado (filesmonster.repository.source )
+8.  Seleciona el archivo zip que hay dentro e instálalo. El archivo se descargará e instalrá.
+7.  El repositorio Filesmonter.repository está ahora listo en tu sistema Kodi (sigue las instrucciones indicadas anteriormente para instalar el addon Filesmonster)
+8.  Puedes borrar la fuente creda ya que no se volverá a usar, puesto que el repositorio se actualizará automáticamente desde este momento.
 
 
 
