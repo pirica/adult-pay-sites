@@ -72,6 +72,11 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 8.  You can delete the source that you have added because it will not be necesary any more, because repo and addon will be updated automatically.
   
 
+## Contribute to Addon source code and add new language support.
+. Under the "source code" folder you can find all the files that build this addon.
+You are free to Fork and make pull request with your changes and improvements. They wil be take under consideraton to include it (after testing them) into a future updatee.
+. To add new languages just copy&paste the "language" part in main.py  an adapt it file and edit resources/settings.xml to add the new language in settins menu.
+. You can also can contribute translating the addon  adding a new file under "tralation" folders  and I will include in main code.
   
 .................................................................................................................................................................................
   
@@ -146,3 +151,12 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 8.  Choose the zip file inside and install it. The zip file will be downloaded and installed.
 7.  Filesmonter.repository is now ready in your kodi system (follow the previous instruccions to install Filesmonster addon)
 8.  You can delete the source that you have added because it will not be necesary any more, because repo and addon will be updated automatically.
+
+
+
+## Contribute to Addon source code and add new language support.
+. Under the "source code" folder you can find all the files that build this addon.
+You are free to Fork and make pull request with your changes and improvements. They wil be take under consideraton to include it (after testing them) into a future updatee.
+. To add new languages just copy&paste the "language" part in main.py  an adapt it file and edit resources/settings.xml to add the new language in settins menu.
+. You can also can contribute translating the addon  adding a new file under "tralation" folders  and I will include in main code.
+  
