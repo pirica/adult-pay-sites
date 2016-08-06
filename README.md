@@ -9,11 +9,10 @@ Actually just for test propouses.
 Acces to all Filesmonster.com video catalogue with your premium acount.
 
 Addon Filesmonster.com for Kodi only interface without oficial API yet.
-
-
-## Esay installation procedure.
-
-## Installation instructions.
+ 
+  
+  
+## Simple installation procedure.
 
 ## 1st - Install this repository in Kodi
 1.- Download repository.kodi.filesmonster-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/Filesmonster/releases) and save in a folder accesible from Kodi.
@@ -23,7 +22,8 @@ Addon Filesmonster.com for Kodi only interface without oficial API yet.
 3.- Choose the zip file you have downloaded and install it
 
 4.- Filesmonster.repository has now in Kodi.
-
+  
+   
 
 ## 2nd - Install Filesmonster Addon
 
@@ -34,8 +34,8 @@ Addon Filesmonster.com for Kodi only interface without oficial API yet.
 3.- Install from there Fiesmonster Addon
 
 4.- You can find this addon under your video tab 
-
-
+  
+  
 
 ## 3rd - Addon and repo will be updated automatically
 
