@@ -1,6 +1,8 @@
 Instrucciones en español más abajo ;)
 
 ![ScreenShot](https://github.com/spaniard1978/Filesmonster/blob/master/screenshots/logo_addon.jpg?raw=true)
+![ScreenShot](https://github.com/spaniard1978/Filesmonster/blob/master/screenshots/logo_repo.jpg?raw=true)
+
 
 # Filesmonster Repo (English)
 
