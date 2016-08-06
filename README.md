@@ -41,8 +41,6 @@ to do
 Descarga el archivo repository.kodi.filesmonster-xxx.zip desde la pestaña "releases"  o directamente [desde aquí](https://github.com/spaniard1978/Filesmonster/releases/download/repo/repository.kodi.filesmonster-1.0.0.zip)
 
 
-https://github.com/spaniard1978/Filesmonster/releases/download/repo/repository.kodi.filesmonster-1.0.0.zip
-
 ## 2nd - Instala el Addon Filesmonster
 to do
 
