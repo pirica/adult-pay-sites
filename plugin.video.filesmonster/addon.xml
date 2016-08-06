@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.filesmonster" version="0.1.0" name="Filesmonster" provider-name="spaniard1978">
+<requires>
+  <import addon="xbmc.python" version="2.24.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en_gb">Browse and download videos from filesmonster.com.</summary>
+  <description lang="en_gb">Browse and download videos from filesmonster.com using your premium acount. Adult +18 Addon: You must be +18 years old (or legal age in your country) to use this Addon. También disponible en español, cambia el valor en las preferencias. </description>
+  <disclaimer lang="en_gb">Videos from www.filesmonster.com, only avaliable using your premium acount. This Addon uses the oficial API by courtesy of filesmonster. Adult +18 Addon: You must be +18 years old (or legal age in your country) to use this Addon. Avaliable in English and Spanish</disclaimer>
+   <email>spaniard1978@mixmail.com</email>
+   <website>http://github.com/spaniard1978/filesmonster</website>
+</extension>
+</addon>
