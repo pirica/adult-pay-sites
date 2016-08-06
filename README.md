@@ -28,6 +28,12 @@ Addon Filesmonster.com for Kodi only interface without oficial API yet.
 
 
 
+
+
+
+
+
+
 # Filesmonster Repo (Español)
 
 Instala el Addon de Filesmonster (+18) para Kodi usando este repositorio
