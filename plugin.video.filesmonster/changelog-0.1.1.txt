@@ -1,0 +1,5 @@
+Versión 0.1.0: Full addon release, without filesmonster.com API implementation
+
+Version 0.0.2: First release (beta)
+
+Version 0.0.1: First release (alfa)
