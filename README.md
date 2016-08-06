@@ -58,6 +58,12 @@ If you can't open a zip file from kodi you must try the "Advanced installation p
 - For using this installation method you one need to "write a simple url adress" and install from there the Filesmonster Repo.
 - After installing it you can follow the instructions to install addon. Both Addon and repo will be also auto-updated using this intallation procedure.
 
+1 - Got to System > File browser
+2-  Add a new source
+3-  Write this url in "path"
+4-  Write Filesmonster.repository in name field
+5.  Save changes, Filesmonter.repository is ready (follow the previous instruccions to install Filesmonster addon)
+
 
 - 
 
@@ -106,8 +112,14 @@ to do
 - El addons usa la API oficial por cortesía de Filesmonster.com
 
 
-Actualmente sólo para pruebas
+#Advanced installation procedure
+- Using this installation procedure you don't need to "put" any zip file into your kodi system, you can use this alternative installation way also if you can't upload a zip file to your kodi system and browse to find it (p.e. some devices)
+- For using this installation method you one need to "write a simple url adress" and install from there the Filesmonster Repo.
+- After installing it you can follow the instructions to install addon. Both Addon and repo will be also auto-updated using this intallation procedure.
 
-Accede a todo el catálogo de vídeos de Filesmonster.com con tu cuenta premium.
+1 - Got to System > File browser
+2-  Add a new source
+3-  Write this url in "path"
+4-  Write Filesmonster.repository in name field
+5.  Save changes, Filesmonter.repository is ready (follow the previous instruccions to install Filesmonster addon)
 
-El Addon Filesmonster.com contiene sólo la interfaz todavía sin la API oficial.
