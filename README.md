@@ -10,9 +10,19 @@ Instrucciones en español más abajo ;)
 Release notes:
 - Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version)
 - Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
- 
 
-  
+
+# How to install Filesmonster Addon in Kodi:
+You can install Filesmonster addon using by 3 diferent ways, choose the one that you prefer acording your circunstances (in every way auto-update of this addon ins enabled by default):
+- A MODE: install only Filesmonster Addon from a zip file
+- B MODE: install filesmonster repository freom a zip file and then in kodi, from this repository, install Filesmonster addon. (using this way you will install diferent addons that could be included inside this repo int he futur)
+- c MODE: install filesmonster repository from a URL source (advanced instalation procedure) and then in kodi, from this repository, install filesmonster addon. (you can use this installation mode if your are not able to put a zip file inside your kodi system, or you can acces to a folder where zip file is located)
+
+# MODE A: INSTALL ONLY FILESMONSTER ADDON FROM ZIP FILE
+
+
+# MODE B: INSTALL FILESMONSTER REPO FROM ZIP FILE AND THEN FILESMONSTER ADDON FROM KODI
+
 ## Simple installation procedure.
 
 If you can't upload or open our repository zip file to kodi you must try the "Advanced installation procedure" (latter in this document).
@@ -54,6 +64,8 @@ If you can't upload or open our repository zip file to kodi you must try the "Ad
 - This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
 
 
+# MODE C: INSTALL FILESMONSTER REPO URL SOURCE AND THEN FILESMONSTER ADDON FROM KODI (advanced installation procedure)
+
 ##Advanced installation procedure
 Only if you can't load the zip file from your Kodi system (Simple installation procedure is allways recomended if is avaliable)
 - Using this installation procedure you don't need to "put" any zip file into your Kodi system, you can also use this alternative installation way if you can't upload a zip file to your kodi system or browse to find it (some devices)
@@ -86,6 +98,18 @@ spaniard1978@mixmail.com
   
 
 # Repositorio Filesmonster (español)
+
+
+# How to install Filesmonster Addon in Kodi:
+You can install Filesmonster addon using by 3 diferent ways, choose the one that you prefer acording your circunstances (in every way auto-update of this addon ins enabled by default):
+- A MODE: install only Filesmonster Addon from a zip file
+- B MODE: install filesmonster repository freom a zip file and then in kodi, from this repository, install Filesmonster addon. (using this way you will install diferent addons that could be included inside this repo int he futur)
+- c MODE: install filesmonster repository from a URL source (advanced instalation procedure) and then in kodi, from this repository, install filesmonster addon. (you can use this installation mode if your are not able to put a zip file inside your kodi system, or you can acces to a folder where zip file is located)
+
+# MODE A: INSTALL ONLY FILESMONSTER ADDON FROM ZIP FILE
+
+
+# MODE B: INSTALL FILESMONSTER REPO FROM ZIP FILE AND THEN FILESMONSTER ADDON FROM KODI
 
 ## Importante sobre este Addon.
 - Puedes instalar el Addon Filesmonster (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, para acceder a todo el contenido de vídeos del catálogo de Filesmonster.com  (contenido adulto) usando tu cuenta premium.
@@ -137,6 +161,9 @@ Si no puedes subir nuestro arquivo zip con el respositorio a tu sistema Kodi int
 - Todos los contenidos son ofrecidos por Filesmonster.com bajo sus normas de uso (sólo se permite la distribución de contenido legal subido por sus legítimos propietarios (los propios estudios) ). Lee el ["Aviso Legal"](http://filesmonster.com/rules/) de filemonster.com para más información.
 - Este Addon usa la API ofical por cortesía de filesmonster.com.
 
+
+
+# MODO C: INSTALA EL REPOSITORYIO FILESMONSTER DESDE UNA FUENTE URL Y LUEGO DESDE KODI EL ADDON FILESMONSTER (Procedimiento avanzado de instalación)
 
 ##Procedimiento avanzado de instalación
 Sólo si no puedes subir el archivo zip a tu sistema kodi podrás usar este sistema alternativo (el procedimiento simple es siempre el recomendado si es posible) 
