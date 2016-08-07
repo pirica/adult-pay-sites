@@ -136,7 +136,7 @@ Notas de esta versión:
 - No incluye aún la API oficial de fiesmoster.com (disponible en breve)
  
 
-# MODE A: INSTALL ONLY FILESMONSTER ADDON FROM ZIP FILE
+## MODE A: INSTALL ONLY FILESMONSTER ADDON FROM ZIP FILE
 
 Si no puedes subir nuestro arquivo zip con el addon a tu sistema Kodi intenta el "Procedimiento avanzado de instalación".
 
@@ -151,9 +151,9 @@ Si no puedes subir nuestro arquivo zip con el addon a tu sistema Kodi intenta el
 4.- Addon will automatically updated when a new version is avaliable (if you want to force update at any time, and don't wait to automatic update, just go to system > settings > add-ons > my addons > and show the context menu over filesmonster addon. Just hold "check for updates".
 
 
-# MODE B: INSTALL FILESMONSTER REPO FROM ZIP FILE AND THEN FILESMONSTER ADDON FROM KODI
+## MODE B: INSTALL FILESMONSTER REPO FROM ZIP FILE AND THEN FILESMONSTER ADDON FROM KODI
   
-## Procedimiento simple de instalación.
+### Procedimiento simple de instalación.
 
 Si no puedes subir nuestro arquivo zip con el respositorio a tu sistema Kodi intenta el "Procedimiento avanzado de instalación".
 
