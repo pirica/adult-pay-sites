@@ -1,3 +1,8 @@
+Version 0.1.5: Added auto-update to de addon even if is installed without the repo. Uses the same information of repo to update
+
+
+Version 0.1.4: Add all the data for each video, until this moment with test video only.
+
 Versión 0.1.3: Changes the download progress system and solved problem playgin downloading files under some platforms
 
 Versión 0.1.0: Full addon release, without filesmonster.com API implementation
