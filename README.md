@@ -100,6 +100,7 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 - You can watch movies online, download and "add to your filesmonster favorite list", just hold "menu" over a video and choose the apropiate option from the context menu.
 - All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the [Legal rules"](http://filesmonster.com/rules/) from filemonster.com for more information.
 - This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
+- Under screenshots folder you cand find same pictures showing how Filesmonters look like using diferent kodi skins.
 
 
 
@@ -214,6 +215,7 @@ Sólo si no puedes subir el archivo zip a tu sistema kodi podrás usar este sist
 - Puedes ver las películas online, descargalas, o "añadirlas a tu lista de favoritos en filesmoster.com", tan sólo presionando "menu" sobre cada vídeo y eligiendo la opción que desees en cada momento.
 - Todos los contenidos son ofrecidos por Filesmonster.com bajo sus normas de uso (sólo se permite la distribución de contenido legal subido por sus legítimos propietarios (los propios estudios) ). Lee el ["Aviso Legal"](http://filesmonster.com/rules/) de filemonster.com para más información.
 - Este Addon usa la API ofical por cortesía de filesmonster.com.
+- En la carpeta "screenshots" puedes encontrar imágenes de como se ve el addon usando diferentes skins en Kodi
 
 
 # Contribuye al código fuente del Addon y añade nuevos idiomas..
