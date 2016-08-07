@@ -73,13 +73,6 @@ If you can't upload or open our repository zip file to kodi you must try the "Ad
 
 - Kodi's automatic update check cycle happens every 6 hours, so you have nothing to just use the addon and when an update were avaliable will ben instaled. But if you don't want to wait, you can force to upadate them, selecting the repo, displaying the context menu and choose "check for updates". The repo (and the addon inside) will be forced to update.
 
-# 4th - Using the Addon
-- You can change the language of the interface under  "settings > language"
-- You need a premium acount in www.filesmonster.com to wach and download the videos, without this acount you only can browse betwen the full video catallogue from filesmonster.com, but not play them.
-- You can watch movies online, download and "add to your filesmonster favorite list", just hold "menu" over a video and choose the apropiate option from the context menu.
-- All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the [Legal rules"](http://filesmonster.com/rules/) from filemonster.com for more information.
-- This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
-
 
 ## MODE C: INSTALL FILESMONSTER REPO URL SOURCE AND THEN FILESMONSTER ADDON FROM KODI (advanced installation procedure)
 
@@ -99,7 +92,17 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 8.  Choose the zip file inside and install it. The zip file will be downloaded and installed.
 7.  Filesmonter.repository is now ready in your kodi system (follow the previous instruccions to install Filesmonster addon)
 8.  You can delete the source that you have added because it will not be necesary any more, because repo and addon will be updated automatically.
-  
+9.  
+
+
+## Using the Addon
+- You can change the language of the interface under  "settings > language"
+- You need a premium acount in www.filesmonster.com to wach and download the videos, without this acount you only can browse betwen the full video catallogue from filesmonster.com, but not play them.
+- You can watch movies online, download and "add to your filesmonster favorite list", just hold "menu" over a video and choose the apropiate option from the context menu.
+- All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the [Legal rules"](http://filesmonster.com/rules/) from filemonster.com for more information.
+- This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
+
+
 
 ## Contribute to Addon source code and add new language support.
 - Under the "source code" folder you can find all the files that build this addon.
@@ -184,16 +187,8 @@ Si no puedes subir nuestro arquivo zip con el respositorio a tu sistema Kodi int
 
 - El ciclo del sistema de actualización automático de Kodi tiene lugar cada 6 horas, por lo que no tienes más que usar el Addon y cuando se detecte una actualización se procederá a la instalación automática de la misma. Si no quieres esperar puedes forzar la actualización en cualquier momento, desplegando el menú contextual sobre el repositorio y eligiendo "comprobar actualizaciones", tanto el repositorio y como el addon se actualizarán si existe alguna nueva versión. 
 
-# 4º - Utilizando el Addon
-- Puedes cambiar el idioma de la interfaz en  "settings > language"
-- Necesitas una cuenta premium en www.filesmonster.com para poder ver los vídeos, sin ella podrás navegar por el catálogo de filesmonster.com pero no podrás ni visualizar ni descargar ninguno de los vídeos.
-- Puedes ver las películas online, descargalas, o "añadirlas a tu lista de favoritos en filesmoster.com", tan sólo presionando "menu" sobre cada vídeo y eligiendo la opción que desees en cada momento.
-- Todos los contenidos son ofrecidos por Filesmonster.com bajo sus normas de uso (sólo se permite la distribución de contenido legal subido por sus legítimos propietarios (los propios estudios) ). Lee el ["Aviso Legal"](http://filesmonster.com/rules/) de filemonster.com para más información.
-- Este Addon usa la API ofical por cortesía de filesmonster.com.
 
-
-
-## MODO C: INSTALA EL REPOSITORYIO FILESMONSTER DESDE UNA FUENTE URL Y LUEGO DESDE KODI EL ADDON FILESMONSTER (Procedimiento avanzado de instalación)
+## MODO C: INSTALA EL REPOSITORIO FILESMONSTER DESDE UNA FUENTE URL Y LUEGO DESDE KODI EL ADDON FILESMONSTER (Procedimiento avanzado de instalación)
 
 #Procedimiento avanzado de instalación
 Sólo si no puedes subir el archivo zip a tu sistema kodi podrás usar este sistema alternativo (el procedimiento simple es siempre el recomendado si es posible) 
@@ -212,6 +207,15 @@ Sólo si no puedes subir el archivo zip a tu sistema kodi podrás usar este sist
 7.  El repositorio Filesmonter.repository está ahora listo en tu sistema Kodi (sigue las instrucciones indicadas anteriormente para instalar el addon Filesmonster)
 8.  Puedes borrar la fuente creda ya que no se volverá a usar, puesto que el repositorio se actualizará automáticamente desde este momento.
 
+
+
+## Utilizando el Addon
+- Puedes cambiar el idioma de la interfaz en  "settings > language"
+- Necesitas una cuenta premium en www.filesmonster.com para poder ver los vídeos, sin ella podrás navegar por el catálogo de filesmonster.com pero no podrás ni visualizar ni descargar ninguno de los vídeos.
+- Puedes ver las películas online, descargalas, o "añadirlas a tu lista de favoritos en filesmoster.com", tan sólo presionando "menu" sobre cada vídeo y eligiendo la opción que desees en cada momento.
+- Todos los contenidos son ofrecidos por Filesmonster.com bajo sus normas de uso (sólo se permite la distribución de contenido legal subido por sus legítimos propietarios (los propios estudios) ). Lee el ["Aviso Legal"](http://filesmonster.com/rules/) de filemonster.com para más información.
+- Este Addon usa la API ofical por cortesía de filesmonster.com.
+- 
 
 
 ## Contribuye al código fuente del Addon y añade nuevos idiomas..
