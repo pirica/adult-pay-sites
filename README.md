@@ -18,10 +18,10 @@ You can install Filesmonster addon using by 3 diferent ways, choose the one that
 - B MODE: install filesmonster repository freom a zip file and then in kodi, from this repository, install Filesmonster addon. (using this way you will install diferent addons that could be included inside this repo int he futur)
 - c MODE: install filesmonster repository from a URL source (advanced instalation procedure) and then in kodi, from this repository, install filesmonster addon. (you can use this installation mode if your are not able to put a zip file inside your kodi system, or you can acces to a folder where zip file is located)
 
-# MODE A: INSTALL ONLY FILESMONSTER ADDON FROM ZIP FILE
+## MODE A: INSTALL ONLY FILESMONSTER ADDON FROM ZIP FILE
 
 
-# MODE B: INSTALL FILESMONSTER REPO FROM ZIP FILE AND THEN FILESMONSTER ADDON FROM KODI
+## MODE B: INSTALL FILESMONSTER REPO FROM ZIP FILE AND THEN FILESMONSTER ADDON FROM KODI
 
 ## Simple installation procedure.
 
@@ -64,7 +64,7 @@ If you can't upload or open our repository zip file to kodi you must try the "Ad
 - This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
 
 
-# MODE C: INSTALL FILESMONSTER REPO URL SOURCE AND THEN FILESMONSTER ADDON FROM KODI (advanced installation procedure)
+## MODE C: INSTALL FILESMONSTER REPO URL SOURCE AND THEN FILESMONSTER ADDON FROM KODI (advanced installation procedure)
 
 ##Advanced installation procedure
 Only if you can't load the zip file from your Kodi system (Simple installation procedure is allways recomended if is avaliable)
@@ -106,10 +106,10 @@ You can install Filesmonster addon using by 3 diferent ways, choose the one that
 - B MODE: install filesmonster repository freom a zip file and then in kodi, from this repository, install Filesmonster addon. (using this way you will install diferent addons that could be included inside this repo int he futur)
 - c MODE: install filesmonster repository from a URL source (advanced instalation procedure) and then in kodi, from this repository, install filesmonster addon. (you can use this installation mode if your are not able to put a zip file inside your kodi system, or you can acces to a folder where zip file is located)
 
-# MODE A: INSTALL ONLY FILESMONSTER ADDON FROM ZIP FILE
+## MODE A: INSTALL ONLY FILESMONSTER ADDON FROM ZIP FILE
 
 
-# MODE B: INSTALL FILESMONSTER REPO FROM ZIP FILE AND THEN FILESMONSTER ADDON FROM KODI
+## MODE B: INSTALL FILESMONSTER REPO FROM ZIP FILE AND THEN FILESMONSTER ADDON FROM KODI
 
 ## Importante sobre este Addon.
 - Puedes instalar el Addon Filesmonster (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, para acceder a todo el contenido de vídeos del catálogo de Filesmonster.com  (contenido adulto) usando tu cuenta premium.
@@ -163,7 +163,7 @@ Si no puedes subir nuestro arquivo zip con el respositorio a tu sistema Kodi int
 
 
 
-# MODO C: INSTALA EL REPOSITORYIO FILESMONSTER DESDE UNA FUENTE URL Y LUEGO DESDE KODI EL ADDON FILESMONSTER (Procedimiento avanzado de instalación)
+## MODO C: INSTALA EL REPOSITORYIO FILESMONSTER DESDE UNA FUENTE URL Y LUEGO DESDE KODI EL ADDON FILESMONSTER (Procedimiento avanzado de instalación)
 
 ##Procedimiento avanzado de instalación
 Sólo si no puedes subir el archivo zip a tu sistema kodi podrás usar este sistema alternativo (el procedimiento simple es siempre el recomendado si es posible) 
