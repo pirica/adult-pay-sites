@@ -1,5 +1,6 @@
-Version 0.1.5: Added auto-update to de addon even if is installed without the repo. Uses the same information of repo to update
+Version 0.1.6: Fixed categories with the correct view (not list of videos) in some skins. Added "sub category" under categories section
 
+Version 0.1.5: Added auto-update to de addon even if is installed without the repo. Uses the same information of repo to update
 
 Version 0.1.4: Add all the data for each video, until this moment with test video only.
 
