@@ -36,7 +36,9 @@ If you can't upload or open our addon zip file to kodi you must try the "Advance
 
 
 
+
 ## MODE B: INSTALL FILESMONSTER REPO FROM ZIP FILE AND THEN FILESMONSTER ADDON FROM KODI
+
 
 # Simple installation procedure.
 
@@ -81,7 +83,7 @@ If you can't upload or open our repository zip file to kodi you must try the "Ad
 
 ## MODE C: INSTALL FILESMONSTER REPO URL SOURCE AND THEN FILESMONSTER ADDON FROM KODI (advanced installation procedure)
 
-#dvanced installation procedure
+# Advanced installation procedure
 Only if you can't load the zip file from your Kodi system (Simple installation procedure is allways recomended if is avaliable)
 - Using this installation procedure you don't need to "put" any zip file into your Kodi system, you can also use this alternative installation way if you can't upload a zip file to your kodi system or browse to find it (some devices)
 - To use this installation method you only one need to "write a simple url adress" in order to install fron this url adress the Filesmonster Repo.
