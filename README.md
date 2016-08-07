@@ -94,7 +94,7 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 8.  You can delete the source that you have added because it will not be necesary any more, because repo and addon will be updated automatically.
 
 
-## Using the Addon
+# Using the Addon
 - You can change the language of the interface under  "settings > language"
 - You need a premium acount in www.filesmonster.com to wach and download the videos, without this acount you only can browse betwen the full video catallogue from filesmonster.com, but not play them.
 - You can watch movies online, download and "add to your filesmonster favorite list", just hold "menu" over a video and choose the apropiate option from the context menu.
@@ -103,7 +103,7 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 
 
 
-## Contribute to Addon source code and add new language support.
+# Contribute to Addon source code and add new language support.
 - Under the "source code" folder you can find all the files that build this addon.
 You are free to Fork and make pull request with your changes and improvements. They wil be take under consideraton to include it (after testing them) into a future updatee.
 - To add new languages just copy&paste the "language" part in main.py  an adapt it file and edit resources/settings.xml to add the new language in settins menu.
@@ -208,16 +208,15 @@ Sólo si no puedes subir el archivo zip a tu sistema kodi podrás usar este sist
 
 
 
-## Utilizando el Addon
+# Utilizando el Addon
 - Puedes cambiar el idioma de la interfaz en  "settings > language"
 - Necesitas una cuenta premium en www.filesmonster.com para poder ver los vídeos, sin ella podrás navegar por el catálogo de filesmonster.com pero no podrás ni visualizar ni descargar ninguno de los vídeos.
 - Puedes ver las películas online, descargalas, o "añadirlas a tu lista de favoritos en filesmoster.com", tan sólo presionando "menu" sobre cada vídeo y eligiendo la opción que desees en cada momento.
 - Todos los contenidos son ofrecidos por Filesmonster.com bajo sus normas de uso (sólo se permite la distribución de contenido legal subido por sus legítimos propietarios (los propios estudios) ). Lee el ["Aviso Legal"](http://filesmonster.com/rules/) de filemonster.com para más información.
 - Este Addon usa la API ofical por cortesía de filesmonster.com.
-- 
 
 
-## Contribuye al código fuente del Addon y añade nuevos idiomas..
+# Contribuye al código fuente del Addon y añade nuevos idiomas..
 - Bajo la carpeta  "source code" encontrarás todos los archivos que conforman en Addon.
 Puedes hacer un Fork para introducir cambios y hacer solicituedes de "pull request" de los mismos. Tras ser revisados serán tenidos en cuenta para introducirlos en las siguientes versiones actualizadas del addon
 - Para añadir un nuevo idioma tan sólo copia y pega la parte "language" del archivo main.py  y adáptala  y eita  resources/settings.xml para añadir un nuevo idioma en el menú.
