@@ -83,7 +83,7 @@ Only if you can't load the zip file from your Kodi system (Simple installation p
 
 1. Go to System > File browser
 2.  Chosse "Add a new source"
-3.  Write this url in "path" field: http://filesmonster.gzpot.com/repo/
+3.  Write this url in "path" field: http://spaniard1978.tripod.com/filesmonster/
 4.  Write Filesmonster.repository.source in name field (or other one)
 5.  Save changes.
 6.  Go back to Kodi's main menu and choose System > settings > addons > install from zip
@@ -195,7 +195,7 @@ Sólo si no puedes subir el archivo zip a tu sistema kodi podrás usar este sist
 
 1.  Ve a  Sistema > Explorador de archivos
 2.  Elige "Añadir una nueva fuente"
-3.  Escribe esta url en el campo "ruta": http://filesmonster.gzpot.com/repo/
+3.  Escribe esta url en el campo "ruta": http://spaniard1978.tripod.com/filesmonster/
 4.  Escribe Filesmonster.repository.source en el campo nombre (o cualquier otro)
 5.  Guarda los cambios.
 6.  Vuelve al menú principal de Kodi y ve a  Sistema > ajustes > addons > instalar desde un archivo zip.
