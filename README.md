@@ -1,45 +1,45 @@
 Información en español más abajo ;)
 
 
-# Filesmonster Repo (English)
+# Spaniard1978 Repo (English)
 
 ## Important about this Addon.
-- You can install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount.
-- This addon can't be used by people under 18 year old due the content avaliable on it.
+- You can install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository or another addon from this repo, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount or other website services.
+- This addons can't be used by people under 18 year old due the content avaliable on it.
 
 Release notes:
-- Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version)
-- Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
+- Filesmonter addon: Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version. Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
+- Helix addon: under test developement
 
 
-# How to install Filesmonster Addon in Kodi:
-You can install Filesmonster addon using by 2 diferent ways, choose the one that you prefer acording your circunstances (in every way auto-update of this addon ins enabled by default):
-- A MODE: install only Filesmonster Addon from a zip file
-- B MODE: install filesmonster repository from a zip file and then in kodi, from this repository, install Filesmonster addon. (using this way you will install diferent addons that could be included inside this repo int he futur)
+# How to install an Addon from this repo in Kodi:
+You can install our addons using by 2 diferent ways, choose the one that you prefer acording your circunstances (in every way auto-update of this addon ins enabled by default):
+- A MODE: install only the Addon from a zip file
+- B MODE: install spaniard1978 repository from a zip file and then in kodi, from this repository, install Filesmonster and other addons. (using this way you will install diferent addons that could be included inside this repo int he futur)
 
 
-## MODE A: INSTALL ONLY FILESMONSTER ADDON FROM ZIP FILE
+## MODE A: INSTALL ONLY one ADDON FROM ZIP FILE
 
-0.- Download a zip file with the latest Filesmonster addon version. You will find under plugin.video.filesmonster folder, or directly from [here] (https://github.com/spaniard1978/Filesmonster/tree/master/plugin.video.filesmonster). Put it in a folder that you can browse from Kodi.
+0.- Download a zip file with the latest Filesmonster addon version. You will find under plugin.video.filesmonster folder, or directly from [here] (https://github.com/spaniard1978/Filesmonster/tree/master/) and chosse the addon you want to download. Put it in a folder that you can browse from Kodi.
 
 1.- Go to system > settings > addons > install from zip file
 
 2.- Browse, find the folder where zip file is, and choose the zip file you have downloaded to install it
 
-3.- Now you can find Filesmonster addon under  video tab  in Kodi main menu
+3.- Now you can find the addon under  video tab  in Kodi main menu
 
 4.- Addon will automatically updated when a new version is avaliable (if you want to force update at any time, and don't wait to automatic update, just go to system > settings > add-ons > my addons > video addons and show the context menu over filesmonster addon. Just hold "check for updates".
 
 
 
 
-## MODE B: INSTALL FILESMONSTER REPO FROM ZIP FILE AND THEN FILESMONSTER ADDON FROM KODI
+## MODE B: INSTALL SPANIARD1978 REPO FROM ZIP FILE AND THEN INSTALL THE ADDON FROM KODI
 
 
 ### Simple installation procedure.
 
 ### 1st - Install this repository in [Kodi*](https://kodi.tv/download/) 
-1.- Download repository.kodi.filesmonster-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/Filesmonster/releases) and save in a folder accesible from Kodi.
+1.- Download repository.kodi.spaniard1978-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/Filesmonster/releases) and save in a folder accesible from Kodi.
 
 2.- In Kodi go to system > settings > addons > install from zip
 
@@ -49,41 +49,38 @@ You can install Filesmonster addon using by 2 diferent ways, choose the one that
   
    
 
-### 2nd - Install Filesmonster Addon
+### 2nd - Install an Addon
 
 1.- Go to system > settings > addons > install from repository
 
-2.- Choose Filesmonster.repository > video addons
+2.- Choose spaniard1978.repository > video addons
 
-3.- Install from there Fiesmonster Addon
+3.- Install from there the Addon
 
-4.- Now you can find Filesmonster addon under  video tab  in Kodi main menu
+4.- Now you can find the addon under  video tab  in Kodi main menu
   
   
 
 ### 3rd - Addon and Repo will be updated automatically
 
-- Filesmonster addon and repo will updated automatically when a new version were avaliable, just be carefull to check "auto update" option under settings tab of Filesmonster Addon and Filesmonster Repo (auto updated is checked by default).
+- All addons and repo will updated automatically when a new version were avaliable, just be carefull to check "auto update" option under settings tab of the Addon and Spaniard1978 Repo (auto updated is checked by default).
 
 - Kodi's automatic update check cycle happens every 6 hours, so you have nothing to just use the addon and when an update were avaliable will ben instaled. But if you don't want to wait, you can force to upadate them, selecting the repo, displaying the context menu and choose "check for updates". The repo (and the addon inside) will be forced to update.
 
 
 
-# Using the Addon
+# Using the Addons
 - You can change the language of the interface under  "settings > language"
-- You need a premium acount in www.filesmonster.com to wach and download the videos, without this acount you only can browse betwen the full video catallogue from filesmonster.com, but not play them.
-- You can watch movies online, download and "add to your filesmonster favorite list", just hold "menu" over a video and choose the apropiate option from the context menu.
-- All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the [Legal rules"](http://filesmonster.com/rules/) from filemonster.com for more information.
-- This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
-- Under screenshots folder you cand find same pictures showing how Filesmonters look like using diferent kodi skins.
+- You need a premium acount in each website to wach and download the videos, without this acount you only can browse betwen the full video catallogue from them, but not play them.
+- You can watch movies online, download and "add to your filesmonster favorite list" (just for this addon), just hold "menu" over a video and choose the apropiate option from the context menu.
+- Filesmonste addon: All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the [Legal rules"](http://filesmonster.com/rules/) from filemonster.com for more information.
+- Filesmnoster addon: This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
+- Under screenshots folder you cand find same pictures showing how addons look like using diferent kodi skins.
 
 
 
 # Contribute to Addon source code and add new language support.
-- Under the "source code" folder you can find all the files that build this addon.
-You are free to Fork and make pull request with your changes and improvements. They wil be take under consideraton to include it (after testing them) into a future updatee.
-- To add new languages just copy&paste the "language" part in main.py  an adapt it file and edit resources/settings.xml to add the new language in settins menu.
-- You can also can contribute translating the addon  adding a new file under "translations" folder  and follow instructions at readme file inside.
+- You  can contribute translating the addon  adding a new file under "translations" folder  and follow instructions at readme file inside.
 
 # Mail contact:
 spaniard1978@mixmail.com
@@ -92,7 +89,7 @@ spaniard1978@mixmail.com
   
   
 
-# Repositorio Filesmonster (español)
+# Repositorio Spaniard1978 (español)
 
 ## Importante sobre este Addon.
 - Puedes instalar el Addon Filesmonster (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, para acceder a todo el contenido de vídeos del catálogo de Filesmonster.com  (contenido adulto) usando tu cuenta premium.
