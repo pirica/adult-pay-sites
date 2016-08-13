@@ -329,7 +329,6 @@ elif mode[0] == 'categories':
 elif mode[0] == 'settings': 
 	open_settings()	
 
-
         
 
 elif mode[0] == 'folder':
@@ -345,19 +344,19 @@ elif mode[0] == 'folder':
     #if it's active user or not choosse what to show
     active = my_addon.getSetting('active')
     if active=='active': 
-    	url = 'http://www.libde265.org/hevc-bitstreams/tos-1720x720-cfg01.mkv'
+    	url = 'http://ftp.halifax.rwth-aachen.de/blender/demo/movies/ToS/tears_of_steel_720p.mov'
     if (active!='active'): url = build_url({'mode': 'no_premium', 'foldername': 'no_premium'})
-    
-    
+
+
     #values of video
     video=url
     title="Tears of Steal"
     thumbnail='http://cdn.traileraddict.com/content/unknown/tears_of_steel.jpg'
-    fanart='http://www.muylinux.com/wp-content/uploads/2012/09/tears-of-steel.jpg'
+    fanart='http://photosex.biz/pic_b/12f97971e840bd771f3a2e8cccfd2d92.jpg'
     genre_s="Action"
     year=2012
     language='English'
-    video_format="1720x720, h265, 1960kbps"
+    video_format="1720x720, hevc, 1960kbps"
     audio_format="93kbps"
     duration="12:14"
     studio='Blender Foundation'
@@ -366,7 +365,10 @@ elif mode[0] == 'folder':
     plot="The short science fiction film is about a group of warriors and scientists who gather at the “Oude Kerk” in a future Amsterdam to stage a crucial event from the past in a desperate attempt to rescue the world from destructive robots"
     #end of video values
     
+
     
+    
+   
     if fanart=='':fanart=fanart_main
     poster=thumbnail
     banner=fanart
@@ -389,7 +391,8 @@ elif mode[0] == 'folder':
     if (codec_format=='windows media video'): codec_format='wmv3'
     codec_format=codec_format.split(' ')
     codec_format_1=codec_format[0]
-    if (codec_format_1=='avc'): codec_format_1='h264'
+    if (codec_format_1=='avc' or codec_format_1=='h265' ): codec_format_1='hevc'
+    codec_format_1='h265'
     audio_chanells=2
     castfull=castfull
     cast=castfull.split(',')
@@ -415,10 +418,10 @@ elif mode[0] == 'folder':
     
     
     li = xbmcgui.ListItem(title, iconImage='DefaultVideo.png')
-    info = {'genre': genre,'year': year,'title': title,  'originaltitle':title, 'studio':studio, 'director':director,  'cast':cast, 'plot':plot, 'mpaa': 'NC-17',  'duration':duration_s }
+    info = {'genre': genre,'year': year,'title': title, 'originaltitle':title, 'studio':studio, 'director':director,  'cast':cast, 'plot':plot, 'mpaa': 'NC-17',  'duration':duration_s }
     li.setInfo('video', info)
     li.setArt({'fanart':fanart, 'thumb':thumbnail , 'poster':poster , 'banner':banner})
-    li.addStreamInfo('audio', { 'language': language_s, 'channels': audio_chanells})
+    li.addStreamInfo('audio', { 'language': language_s,  'channels': audio_chanells})
     li.addStreamInfo('video', {'codec': codec_format_1, 'width': width ,'height': height , 'aspect':aspect, })
     url2 = build_url({'mode':'settings', 'foldername': 'settings'})
     settings=(status_login, 'XBMC.RunPlugin('+url2+')')  
@@ -434,6 +437,8 @@ elif mode[0] == 'folder':
     
     xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=False) 
     
+
+
 
 
 	
@@ -494,6 +499,8 @@ elif mode[0]=='download':
 				f=open(file_txt, "w+")
 				f.write("starting...\n")
 				f.close()
+
+				
 				urllib.urlretrieve(video, directory+new_filename, reporthook=progress)
 
 
