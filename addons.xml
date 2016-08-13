@@ -21,7 +21,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.Helixstudios" version="0.0.1" name="Helixstudios" provider-name="spaniard1978">
+<addon id="plugin.video.helixstudios" version="0.0.1" name="helixstudios" provider-name="spaniard1978">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
 </requires>
@@ -32,11 +32,11 @@
   <summary lang="en">Browse and download videos from helixstudios.net.</summary>
   <description lang="en">Browse and download videos from helixstudios.net using your premium acount. Adult +18 Addon: You must be +18 years old (or legal age in your country) to use this Addon. Change language under seettings tab into the addon.
 	   </description>
-  <disclaimer lang="en">Videos from www.helixstudios.net, only avaliable using your premium acount. This Addon uses the oficial API by courtesy of Helixstudios. Adult +18 Addon: You must be +18 years old (or legal age in your country) to use this Addon. Avaliable in English and Spanish</disclaimer>
+  <disclaimer lang="en">Videos from www.helixstudios.net, only avaliable using your premium acount. This Addon uses the oficial API by courtesy of helixstudios. Adult +18 Addon: You must be +18 years old (or legal age in your country) to use this Addon. Avaliable in English and Spanish</disclaimer>
    <email>spaniard1978@mixmail.com</email>
-   <website>http://github.com/spaniard1978/Helixstudios</website>
+   <website>http://github.com/spaniard1978/helixstudios</website>
 </extension>
-<extension point="xbmc.addon.repository"  name="Helixstudios addon repository">
+<extension point="xbmc.addon.repository"  name="helixstudios addon repository">
     <info compressed="false">https://raw.githubusercontent.com/spaniard1978/spaniard1978/master/addons.xml</info>
 	<checksum>https://raw.githubusercontent.com/spaniard1978/spaniard1978/master/addons.xml.md5</checksum>
 	<datadir zip="true">https://raw.githubusercontent.com/spaniard1978/spaniard1978/master</datadir>
