@@ -1,0 +1,3 @@
+Version 0.0.1 : Login and scenes avaliables
+
+Version 0.0.1: First release (alfa)
