@@ -1,3 +1,5 @@
+Version 0.1.2: Fixed fanart quality downloaded in local file and reeplace each time (only one file saved)
+
 version 1.0.1: Fist stable version. Full operative
 
 Version 0.0.3: Favorites avaliable
