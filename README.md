@@ -8,7 +8,7 @@ Información en español más abajo ;)
 - This addons can't be used by people under 18 year old due the content avaliable on it.
 
 Release notes:
-- Helixstudios addon full operative (you need a premium acount in Helixstudios.net)
+- Helixstudios addon: full operative (you need a premium acount in Helixstudios.net)
 - Filesmonster addon: Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version. Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
 
 
@@ -97,7 +97,7 @@ spaniard1978@mixmail.com
 
 Notas de esta versión:
 - Helixstudios: Totalmente operativo. (necesitas una cuenta premium en Helixstudios.net)
--Filesmonster: Actualmente sólo para pruebas (test), interfaz totalmente operativa pero visualiza sólo uno de prueba (free to use). (beta version) - No incluye aún la API oficial de fiesmoster.com (disponible en breve)
+- Filesmonster: Actualmente sólo para pruebas (test), interfaz totalmente operativa pero visualiza sólo uno de prueba (free to use). (beta version) - No incluye aún la API oficial de fiesmoster.com (disponible en breve)
  
 
 # Como instalar los addons en Kodi:
