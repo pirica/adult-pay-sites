@@ -1,6 +1,6 @@
 	text_latest_videos='Latest videos'
 	text_videos="Videos"
-	text_scenes="Videos"
+	text_scenes="Scenes"
 	text_movies="Movies"
 	text_categories='Categories'
 	text_search_content="Search"
@@ -21,7 +21,6 @@
 	text_file_downloaded="Video is being downloading in the download path (you can change it in your settings). You can control the download process from 'My downloads' in the main menu"
 	text_video_info="Video info"
 	text_added_favorites="Video added to your favorites in helixstudios. Watch it from the main menu"
-	text_removed_favorites="Video removed from your favorites in helixstudios."
 	text_name_download="Filename for downloaded video"
 	text_cancel_download="Cancel download?"
 	text_remove_record_download="Remove this record"
@@ -36,7 +35,3 @@
 	text_sort="Sort by"
 	text_models="Models"
 	text_next=">> Next"
-	text_only_stream="Only streaming, not downloadble"
-	text_scene="Escena"
-	text_actor="Actor"
-	text_model_info="Model info"

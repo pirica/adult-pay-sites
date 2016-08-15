@@ -1,6 +1,6 @@
 	text_latest_videos='Úlimos vídeos'
 	text_videos="Vídeos"
-	text_scenes="Escenas"
+	text_scenes="Vídeos"
 	text_movies="Películas"
 	text_categories='Categorías'
 	text_search_content="Buscar"
@@ -21,7 +21,7 @@
 	text_file_downloaded="El vídeo se está descargando en la ruta de descarga (puedes cambiarla en preferencias). Puedes controlar el proceso de descarga desde 'Mis descargas' en el menú principal"
 	text_video_info="Información del vídeo"
 	text_added_favorites="El vídeo se añadido a tus favoritos de helixstudios.net. Puedes verlo desde el menú principal"
-	text_removed_favorites="El vídeo se eliminado d tus favoritos de helixstudios.net."
+	text_removed_favorites="El vídeo se ha eliminado de tus favoritos de helixstudios.net."
 	text_name_download="Se descargará con este nombre"
 	text_cancel_download="¿Cancelar la descarga?"
 	text_remove_record_download="Borrar este registro"
@@ -36,3 +36,7 @@
 	text_sort="Orden"
 	text_models="Modelos"
 	text_next=">> Siguientes"
+	text_only_stream="Sólo reproducir, no descargable"
+	text_scene="Escena"
+	text_actor="Actor"
+	text_model_info="Información del modelo"
