@@ -4,12 +4,12 @@ Información en español más abajo ;)
 # Spaniard1978 Repo (English)
 
 ## Important about this Addon.
-- You can install Filesmonster Addon (+18) for [Kodi*](https://kodi.tv/download/) using this repository or another addon from this repo, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount or other website services.
+- You can install our Addons (+18) for [Kodi*](https://kodi.tv/download/) using this repository or another addon from this repo, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount or other website services.
 - This addons can't be used by people under 18 year old due the content avaliable on it.
 
 Release notes:
-- Filesmonter addon: Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version. Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
-- Helix addon: under test developement
+- Helixstudios addon full operative (you need a premium acount in Helixstudios.net)
+- Filesmonster addon: Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version. Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
 
 
 # How to install an Addon from this repo in Kodi:
@@ -79,8 +79,8 @@ You can install our addons using by 2 diferent ways, choose the one that you pre
 
 
 
-# Contribute to Addon source code and add new language support.
-- You  can contribute translating the addon  adding a new file under "translations" folder  and follow instructions at readme file inside.
+# Contribute adding new language support.
+- You  can contribute translating the addons  adding a new file under "translations" folder  and follow instructions at readme file inside.
 
 # Mail contact:
 spaniard1978@mixmail.com
@@ -92,12 +92,12 @@ spaniard1978@mixmail.com
 # Repositorio Spaniard1978 (español)
 
 ## Importante sobre este Addon.
-- Puedes instalar los addons (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, para acceder a todo el contenido de vídeos del catálogo de Filesmonster.com  (contenido adulto) usando tu cuenta premium y otros servicios según el addon.
+- Puedes instalar nuestros addons (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, para acceder a todo el contenido de vídeos del catálogo de Filesmonster.com  (contenido adulto) usando tu cuenta premium y otros servicios según el addon.
 - Estos addons no puede ser usado por menores de 18 años por el contenido incluído en el mismo.
 
 Notas de esta versión:
+- Helixstudios: Totalmente operativo. (necesitas una cuenta premium en Helixstudios.net)
 -Filesmonster: Actualmente sólo para pruebas (test), interfaz totalmente operativa pero visualiza sólo uno de prueba (free to use). (beta version) - No incluye aún la API oficial de fiesmoster.com (disponible en breve)
-- Helixstudio: En desarrollo 
  
 
 # Como instalar los addons en Kodi:
@@ -163,8 +163,8 @@ Puedes instalar un addon en kodi de 2 modos, elige el que prefieras y mejor se a
 - En la carpeta "screenshots" puedes encontrar imágenes de como se ve el addon usando diferentes skins en Kodi
 
 
-# Contribuye al código fuente del Addon y añade nuevos idiomas..
-- Puedes también colaborar traduciendo los menús del addon  añadiendo un nuevo archivo en la capreta "translations" y sigue las instrucciones del archivo readme que contiene.
+# Contribuye añadiendo nuevos idiomas..
+- Puedes también colaborar traduciendo los menús de los addons añadiendo un nuevo archivo en la capreta "translations" y sigue las instrucciones del archivo readme que contiene.
 
 # Correo de contacto:
 spaniard1978@mixmail.com
