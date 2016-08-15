@@ -8,7 +8,7 @@ Información en español más abajo ;)
 - This addons can't be used by people under 18 year old due the content avaliable on it.
 
 Release notes:
-- Helixstudios addon: full operative (you need a premium acount in Helixstudios.net)
+- Helixstudios addon: Full operative (you need a premium acount in Helixstudios.net)
 - Filesmonster addon: Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version. Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
 
 
@@ -72,9 +72,10 @@ You can install our addons using by 2 diferent ways, choose the one that you pre
 # Using the Addons
 - You can change the language of the interface under  "settings > language"
 - You need a premium acount in each website to wach and download the videos, without this acount you only can browse betwen the full video catallogue from them, but not play them.
-- You can watch movies online, download and "add to your filesmonster favorite list" (just for this addon), just hold "menu" over a video and choose the apropiate option from the context menu.
+- You can watch movies online, download and "add to your favorite list in both addons", just hold "menu" over a video and choose the apropiate option from the context menu.
 - Filesmonste addon: All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the [Legal rules"](http://filesmonster.com/rules/) from filemonster.com for more information.
 - Filesmnoster addon: This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
+- Helixstudios addon: Uses the website code to get the videos and movies loggin with your username/password. Read the Legal advise in helixstudios.net
 - Under screenshots folder you cand find same pictures showing how addons look like using diferent kodi skins.
 
 
@@ -158,8 +159,9 @@ Puedes instalar un addon en kodi de 2 modos, elige el que prefieras y mejor se a
 - Puedes cambiar el idioma de la interfaz en  "settings > language"
 - Necesitas una cuenta premium en www.filesmonster.com para poder ver los vídeos, sin ella podrás navegar por el catálogo de filesmonster.com pero no podrás ni visualizar ni descargar ninguno de los vídeos. Del mismo modo para otras cuentas con los respectivos addons.
 - Addon Filesmonster: Puedes ver las películas online, descargalas, o "añadirlas a tu lista de favoritos en filesmoster.com", tan sólo presionando "menu" sobre cada vídeo y eligiendo la opción que desees en cada momento.
--Addon Filesmonster: Todos los contenidos son ofrecidos por Filesmonster.com bajo sus normas de uso (sólo se permite la distribución de contenido legal subido por sus legítimos propietarios (los propios estudios) ). Lee el ["Aviso Legal"](http://filesmonster.com/rules/) de filemonster.com para más información.
--Addon Filesmonster: Este Addon usa la API ofical por cortesía de filesmonster.com.
+- Addon Filesmonster: Todos los contenidos son ofrecidos por Filesmonster.com bajo sus normas de uso (sólo se permite la distribución de contenido legal subido por sus legítimos propietarios (los propios estudios) ). Lee el ["Aviso Legal"](http://filesmonster.com/rules/) de filemonster.com para más información.
+- Addon Filesmonster: Este Addon usa la API ofical por cortesía de filesmonster.com.
+- Addon Helixstudios: Utiiza el código de web tras acceder con tu usuario y contraseña. Consulta el aviso legal de helixstudios.net para más información sobre le contenido y las credenciales del mismo.
 - En la carpeta "screenshots" puedes encontrar imágenes de como se ve el addon usando diferentes skins en Kodi
 
 
