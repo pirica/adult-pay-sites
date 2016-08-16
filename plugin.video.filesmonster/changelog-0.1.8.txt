@@ -1,4 +1,4 @@
-Version 0.1.7: Fixed fanart quality downloaded in local file and reeplace each time (only one file saved)
+Version 0.1.8: Fixed fanart quality downloaded in local file and reeplace each time (only one file saved)
 
 Version 0.1.6: Fixed categories with the correct view (not list of videos) in some skins. Added "sub category" under categories section
 
