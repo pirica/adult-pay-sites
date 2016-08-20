@@ -13,7 +13,7 @@ Get the last version of kodi in www.kodi.tv
 
   
 
-# Spaniard1978 Repo (English)
+# Adult-pay-sites Repo for Kodi (English)
 
 ## Important about this Repository.
 - You can install our Addons (+18) for [Kodi*](https://kodi.tv/download/) using this repository, all of them need a premium account in their website in order to be used.
@@ -27,13 +27,13 @@ Get the last version of kodi in www.kodi.tv
 
 # How to install an Addon from this repo in Kodi:
 You can install our addons using by 2 diferent ways, choose the one that you prefer acording your circunstances (in every way auto-update of this addon ins enabled by default):
-- A MODE: install only the Addon from a zip file
-- B MODE: install spaniard1978 repository from a zip file and then in kodi, from this repository, install Filesmonster and other addons. (using this way you will install diferent addons that could be included inside this repo int he futur)
+- A MODE: install only one Addon from a zip file
+- B MODE:  (recomended) install adult-pay-sites repository from a zip file and then in kodi, from this repository, install all the addons included. (using this way you will install diferent addons that could be included inside this repo int he future)
 
 
 ## MODE A: INSTALL ONLY one ADDON FROM ZIP FILE
 
-0.- Download a zip file with the latest Filesmonster addon version. You will find under plugin.video.xxxx folder, or directly from [here] (https://github.com/spaniard1978/Filesmonster/tree/master/) and chosse the addon you want to download. Put it in a folder that you can browse from Kodi.
+0.- Download a zip file with the latest addon version. You will find under plugin.video.xxxx folder and chosse the zip file from the addon that you want to download. Put it in a folder that you can browse from Kodi.
 
 1.- Go to system > settings > addons > install from zip file
 
@@ -46,19 +46,19 @@ You can install our addons using by 2 diferent ways, choose the one that you pre
 
 
 
-## MODE B: INSTALL SPANIARD1978 REPO FROM ZIP FILE AND THEN INSTALL THE ADDON FROM KODI
+## MODE B: INSTALL ADUL-PAY-SITES REPO FROM A ZIP FILE AND THEN INSTALL THE ADDONS FROM KODI
 
 
 ### Simple installation procedure.
 
 ### 1st - Install this repository in [Kodi*](https://kodi.tv/download/) 
-1.- Download repository.kodi.spaniard1978-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/spaniard1978/releases) and save in a folder accesible from Kodi.
+1.- Download repository.kodi.adult-pay-sites-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/adult-pay-sites/releases) and save in a folder accesible from Kodi.
 
 2.- In Kodi go to system > settings > addons > install from zip
 
 3.- Browse and choose the zip file you have downloaded and install it
 
-4.- Spaniard1978.repository is now in [Kodi*](https://kodi.tv/download/) ready to install and periodically update the addons that are inside
+4.- adtul-pay-sites repository is now in [Kodi*](https://kodi.tv/download/) ready to install and periodically update the addons that are inside
   
    
 
@@ -66,7 +66,7 @@ You can install our addons using by 2 diferent ways, choose the one that you pre
 
 1.- Go to system > settings > addons > install from repository
 
-2.- Choose spaniard1978.repository > video addons
+2.- Choose adult-pay-sites.repository > video addons
 
 3.- Install from there the Addon
 
@@ -103,7 +103,7 @@ spaniard1978@mixmail.com
   
   
 
-# Repositorio Spaniard1978 (español)
+# Repositorio adult-pay-sites (español)
 
 ## Importante sobre este Repositorio.
 - Puedes instalar nuestros addons (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, todos ellos necesitan una cuetna premiun en sus respectivos sitios web para poder ser utilizados.
@@ -118,12 +118,12 @@ spaniard1978@mixmail.com
 # Como instalar los addons en Kodi:
 Puedes instalar un addon en kodi de 2 modos, elige el que prefieras y mejor se adapte a tus circunstancias (en todos los modos la actualización del addon se llevará cabo de forma automática ):
 - MODO A: Instalar sólo el addon  desde un archivo zip
-- MODO B: Instalar el repositorio spaniard1978 desde un archivo zip, y luego desde kodi, en este repositorio, instalar el addon en cuestión. (usando este sistema podrás instalar otros addons diferentes que puedan incluírse en el futuro en el repositorio)
+- MODO B: Instalar el repositorio adult-pay-sites desde un archivo zip, y luego desde kodi, en este repositorio, instalar el addon en cuestión. (usando este sistema podrás instalar otros addons diferentes que puedan incluírse en el futuro en el repositorio)
 
 
-## MODO A: INSTALAR SÓLO EL ADDON  DESDE UN ARCHIVO ZIP
+## MODO A: INSTALAR SÓLO UN ADDON  DESDE UN ARCHIVO ZIP
 
-0.- Descarga el archivo zip con la última versión disponible del addon. Lo encontararás en la carpeta "plugin.videos.xxxx", o directamente desde [aquí] (https://github.com/spaniard1978/spaniard1978/tree/master/). Colócalo en una carpeta accesible desde Kodi.
+0.- Descarga el archivo zip con la última versión disponible del addon. Lo encontararás en la carpeta "plugin.videos.xxxx". Colócalo en una carpeta accesible desde Kodi.
 
 1.- Ve a sistema > ajustes > addons > instalar desd un archivo zip
 
@@ -134,18 +134,18 @@ Puedes instalar un addon en kodi de 2 modos, elige el que prefieras y mejor se a
 4.- El addon se actualizará con cada nueva versión disponible de forma automática (si quieres forzar la actualización en cualquier momento, sin esperar a la actualización automática, ve a sistema > ajustes > add-ons > mis addons >addons de vídeo, y haz aparecer el menú contextual sobre el addon. Elje la opción "comprobar actualizaciones")".
 
 
-## MODO B: INSTALAR EL REPOSITORIO DE SPANIARD1978 DESDE UN ARCHIVO ZIP Y LUEGO INSTALAR EL ADDON DESDE ÉL
+## MODO B: INSTALAR EL REPOSITORIO DE ADULT-PAY-SITES DESDE UN ARCHIVO ZIP Y LUEGO INSTALAR LOS ADDON DESDE ÉL
   
 ### Procedimiento simple de instalación.
 
 ### 1º - Instala the repositorio en [Kodi*](https://kodi.tv/download/) 
-1.- Descarga el archivo repository.kodi.spaniard1978-xxx.zip en la pestaña "releases" o [desde aquí](https://github.com/spaniard1978/spaniard1978/releases) y guárdalo en algún lugar accesible desde Kodi..
+1.- Descarga el archivo repository.kodi.adult-pay-sites-xxx.zip en la pestaña "releases" o [desde aquí](https://github.com/spaniard1978/adult-pay-sites/releases) y guárdalo en algún lugar accesible desde Kodi..
 
 2.- En Kodi ve  sistema > ajustes > addons > instalar desde archivo zip
 
 3.- Navega entre las carpetas y localiza el archivo zip que has descargado y procede a instalarlo.
 
-4.- El repositorio spaniard1978.repository está ahora en [Kodi*](https://kodi.tv/download/) listo para instalar y periódicamente actualizar, los addons que contiene. 
+4.- El repositorio adult-pay-sites.repository está ahora en [Kodi*](https://kodi.tv/download/) listo para instalar y periódicamente actualizar, los addons que contiene. 
   
    
 
@@ -153,7 +153,7 @@ Puedes instalar un addon en kodi de 2 modos, elige el que prefieras y mejor se a
 
 1.- Ve a sistema > ajustes > addons > instalar desde un repositorio
 
-2.- Elige el repositorio spaniard1978.repository > addons de vídeo
+2.- Elige el repositorio adult-pay-sites.repository > addons de vídeo
 
 3.- Instala desde allí el Addon que desees
 
