@@ -1,3 +1,5 @@
+Información en español más abajo ;)
+
 # Repo for this Kodi versions:
 - Kodi 16.x Jarvis
 - kodi 15.x Isengard
@@ -7,7 +9,6 @@ Get the last version of kodi in www.kodi.tv
 
 
 
-Información en español más abajo ;)
 
 
   
