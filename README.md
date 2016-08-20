@@ -1,9 +1,9 @@
 # Repo for this Kodi versions:
 - Kodi 16.x Jarvis
 - kodi 15.x Isengard
-- kodi 14.x Helix
-- Kodi 13.x Gotham
-- Kodi 12.x Frodo
+- Not tested in previous version
+
+Get the last version of kodi in www.kodi.tv
 
 Información en español más abajo ;)
 
