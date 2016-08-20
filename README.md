@@ -1,3 +1,7 @@
+# Repo for this Kodi versions:
+- Kodi 16.x Jarvis
+- kodi 15.x Eden
+
 Información en español más abajo ;)
 
 
@@ -8,7 +12,7 @@ Información en español más abajo ;)
 - This addons can't be used by people under 18 year old due the content avaliable on it.
 - This addons are unoficial.
 
-## Content of repo (tested on jarvis):
+## Content of repo:
 - Helixstudios addon: Full operative (you need a premium acount in Helixstudios.net)
 - Filesmonster addon: Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version. Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
 
@@ -98,7 +102,7 @@ spaniard1978@mixmail.com
 - Estos addons no puede ser usado por menores de 18 años por el contenido incluído en el mismo.
 - Estos addons no son oficiales.
 
-## Contenido del repositorio (probado en jarvis):
+## Contenido del repositorio
 - Helixstudios: Totalmente operativo. (necesitas una cuenta premium en Helixstudios.net)
 - Filesmonster: Actualmente sólo para pruebas (test), interfaz totalmente operativa pero visualiza sólo uno de prueba (free to use). (beta version) - No incluye aún la API oficial de fiesmoster.com (disponible en breve)
  
