@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kodi.spaniard1978" name="spaniard1978.Repo" version="1.0.2" provider-name="spaniard1978">
-	<extension point="xbmc.addon.repository" name="spaniard1978 Repo">
+<addon id="repository.kodi.adult-pay-sites" name="adult-pay-sites.respository" version="1.0.3" provider-name="spaniard1978">
+	<extension point="xbmc.addon.repository" name="Adult-pay-sites Repository">
 		<info compressed="false">https://raw.githubusercontent.com/spaniard1978/adult-pay-sites/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/spaniard1978/adult-pay-sites/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/spaniard1978/adult-pay-sites/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>spaniard1978 Repository</summary>
+		<summary>Adult-pay-sites Repository</summary>
    		<description lang="en">Install repository.kodi.adult-pay-sites repo  and install +18 addons for pay sites, using your premium account</description>
    		<description lang="es">Instala el repositorio repository.kodi.adult-pay-sites e instala addons +18 para sitios de pago, usando tu cuenta premium </description>
    		<disclaimer lang="en">Content of addons are responsability of pay sites owers. You can only use this addons using your premium account for each site</disclaimer>
