@@ -7,7 +7,7 @@ Información en español más abajo ;)
 - You can install our Addons (+18) for [Kodi*](https://kodi.tv/download/) using this repository or another addon from this repo, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount or other website services.
 - This addons can't be used by people under 18 year old due the content avaliable on it.
 
-Release notes:
+## Content of repo (tested on jarvis):
 - Helixstudios addon: Full operative (you need a premium acount in Helixstudios.net)
 - Filesmonster addon: Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version. Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
 
@@ -96,7 +96,7 @@ spaniard1978@mixmail.com
 - Puedes instalar nuestros addons (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, para acceder a todo el contenido de vídeos del catálogo de Filesmonster.com  (contenido adulto) usando tu cuenta premium y otros servicios según el addon.
 - Estos addons no puede ser usado por menores de 18 años por el contenido incluído en el mismo.
 
-Notas de esta versión:
+## Contenido del repositorio (probado en jarvis):
 - Helixstudios: Totalmente operativo. (necesitas una cuenta premium en Helixstudios.net)
 - Filesmonster: Actualmente sólo para pruebas (test), interfaz totalmente operativa pero visualiza sólo uno de prueba (free to use). (beta version) - No incluye aún la API oficial de fiesmoster.com (disponible en breve)
  
