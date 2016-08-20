@@ -1,6 +1,8 @@
 # Repo for this Kodi versions:
 - Kodi 16.x Jarvis
-- kodi 15.x Eden
+- kodi 15.x Isengard
+- kodi 13.x Helix
+- Kodi 12.x Gotham
 
 Información en español más abajo ;)
 
