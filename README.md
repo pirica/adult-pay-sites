@@ -3,9 +3,10 @@ Información en español más abajo ;)
 
 # Spaniard1978 Repo (English)
 
-## Important about this Addon.
-- You can install our Addons (+18) for [Kodi*](https://kodi.tv/download/) using this repository or another addon from this repo, to acces to all Filesmonster.com video catalogue (adult content) using your premium acount or other website services.
+## Important about this Repository.
+- You can install our Addons (+18) for [Kodi*](https://kodi.tv/download/) using this repository, all of them need a premium account in their website in order to be used.
 - This addons can't be used by people under 18 year old due the content avaliable on it.
+- This addons are unoficial.
 
 ## Content of repo (tested on jarvis):
 - Helixstudios addon: Full operative (you need a premium acount in Helixstudios.net)
@@ -92,9 +93,10 @@ spaniard1978@mixmail.com
 
 # Repositorio Spaniard1978 (español)
 
-## Importante sobre este Addon.
-- Puedes instalar nuestros addons (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, para acceder a todo el contenido de vídeos del catálogo de Filesmonster.com  (contenido adulto) usando tu cuenta premium y otros servicios según el addon.
+## Importante sobre este Repositorio.
+- Puedes instalar nuestros addons (+18) para [Kodi*](https://kodi.tv/download/) usando este repositorio, todos ellos necesitan una cuetna premiun en sus respectivos sitios web para poder ser utilizados.
 - Estos addons no puede ser usado por menores de 18 años por el contenido incluído en el mismo.
+- Estos addons no son oficiales.
 
 ## Contenido del repositorio (probado en jarvis):
 - Helixstudios: Totalmente operativo. (necesitas una cuenta premium en Helixstudios.net)
