@@ -174,7 +174,7 @@ Puedes instalar un addon en kodi de 2 modos, elige el que prefieras y mejor se a
 - Necesitas una cuenta premium en www.filesmonster.com para poder ver los vídeos, sin ella podrás navegar por el catálogo de filesmonster.com pero no podrás ni visualizar ni descargar ninguno de los vídeos. Del mismo modo para otras cuentas con los respectivos addons.
 - Addon Filesmonster: Puedes ver las películas online, descargalas, o "añadirlas a tu lista de favoritos en filesmoster.com", tan sólo presionando "menu" sobre cada vídeo y eligiendo la opción que desees en cada momento.
 - Addon Filesmonster: Todos los contenidos son ofrecidos por Filesmonster.com bajo sus normas de uso (sólo se permite la distribución de contenido legal subido por sus legítimos propietarios (los propios estudios) ). Lee el ["Aviso Legal"](http://filesmonster.com/rules/) de filemonster.com para más información.
-- Addon Filesmonster: Este Addon usa la API ofical por cortesía de filesmonster.com.
+- Addon Filesmonster: Este Addon usa la [API](http://pastebin.com/ktupKx5g) ofical por cortesía de filesmonster.com.
 - Addon Helixstudios: Utiiza el código de web tras acceder con tu usuario y contraseña. Consulta el aviso legal de helixstudios.net para más información sobre le contenido y las credenciales del mismo.
 - En la carpeta "screenshots" puedes encontrar imágenes de como se ve el addon usando diferentes skins en Kodi
 
