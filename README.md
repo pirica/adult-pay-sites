@@ -22,7 +22,7 @@ Get the last version of kodi in www.kodi.tv
 
 ## Content of repo:
 - Helixstudios addon: Full operative (you need a premium acount in Helixstudios.net)
-- Filesmonster addon: Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version. Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon)
+- Filesmonster addon: Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version. Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon) 
 
 
 # How to install an Addon from this repo in Kodi:
@@ -86,8 +86,8 @@ You can install our addons using by 2 diferent ways, choose the one that you pre
 - You can change the language of the interface under  "settings > language"
 - You need a premium acount in each website to wach and download the videos, without this acount you only can browse betwen the full video catallogue from them, but not play them.
 - You can watch movies online, download and "add to your favorite list in both addons", just hold "menu" over a video and choose the apropiate option from the context menu.
-- Filesmonste addon: All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the [Legal rules"](http://filesmonster.com/rules/) from filemonster.com for more information.
-- Filesmnoster addon: This Addon uses the ofical filesmonster.com API cortesy of filesmonster.com
+- Filesmonste addon: All the contents are provided and distributed by Filesmonster.com under its legal agrements (only legal content upladed by diferent studios is allowed). Read the [Legal rules](http://filesmonster.com/rules/) from filemonster.com for more information.
+- Filesmnoster addon: This Addon uses the ofical filesmonster.com [API](http://pastebin.com/ktupKx5g) cortesy of filesmonster.com
 - Helixstudios addon: Uses the website code to get the videos and movies loggin with your username/password. Read the Legal advise in helixstudios.net
 - Under screenshots folder you cand find same pictures showing how addons look like using diferent kodi skins.
 
