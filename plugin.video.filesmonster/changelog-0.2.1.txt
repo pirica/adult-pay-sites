@@ -1,4 +1,4 @@
-Version 0.2.0: Added API, search not avaliable, open folders not avaliable yet.. the rest works correctly
+Version 0.2.1: Added API, search not avaliable, open folders not avaliable yet.. the rest works correctly
 
 Version 0.1.8: Fixed fanart quality downloaded in local file and reeplace each time (only one file saved)
 
