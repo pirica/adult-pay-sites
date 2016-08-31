@@ -22,7 +22,7 @@ Get the last version of kodi in www.kodi.tv
 
 ## Content of repo:
 - Helixstudios addon: Full operative (you need a premium acount in Helixstudios.net)
-- Filesmonster addon: Actually just for test propouses, interface functional but just play or download one free to use vídeo. (beta version. Addon Filesmonster.com for Kodi only interface without oficial API yet (avaliable soon) 
+- Filesmonster addon: Full operative except search (avaliable soon)
 
 
 # How to install an Addon from this repo in Kodi:
@@ -112,7 +112,7 @@ spaniard1978@mixmail.com
 
 ## Contenido del repositorio
 - Helixstudios: Totalmente operativo. (necesitas una cuenta premium en Helixstudios.net)
-- Filesmonster: Actualmente sólo para pruebas (test), interfaz totalmente operativa pero visualiza sólo uno de prueba (free to use). (beta version) - No incluye aún la API oficial de fiesmoster.com (disponible en breve)
+- Filesmonster: Totalmente operativo salvo la búsqueda (disponible en breve)
  
 
 # Como instalar los addons en Kodi:
