@@ -1,3 +1,5 @@
+Version 0.2.2: Full list of categories, changes list of items from 100 to 50 per page (searche and open folder not avaliable yet). Fixed download: now works properly
+
 Version 0.2.1: Added API, search not avaliable, open folders not avaliable yet.. the rest works correctly
 
 Version 0.1.8: Fixed fanart quality downloaded in local file and reeplace each time (only one file saved)
