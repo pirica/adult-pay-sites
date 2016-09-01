@@ -1,6 +1,7 @@
 Información en español más abajo ;)
 
 # Repo for this Kodi versions:
+- kodi 17.x Krypton (this kodi version is not stable, for test propouses only)
 - Kodi 16.x Jarvis
 - kodi 15.x Isengard
 - Not tested in previous version
@@ -21,8 +22,8 @@ Get the last version of kodi in www.kodi.tv
 - This addons are unoficial.
 
 ## Content of repo:
-- Helixstudios addon: Full operative (you need a premium acount in Helixstudios.net)
-- Filesmonster addon: Full operative except search (avaliable soon)
+- Helixstudios addon: Full operative - You need  to use/buy a premium account in Helixstudios.net.
+- Filesmonster addon: Full operative except search (avaliable soon) - You need to use/buy premium account in Filesmonster.com.
 
 
 # How to install an Addon from this repo in Kodi:
@@ -111,8 +112,8 @@ spaniard1978@mixmail.com
 - Estos addons no son oficiales.
 
 ## Contenido del repositorio
-- Helixstudios: Totalmente operativo. (necesitas una cuenta premium en Helixstudios.net)
-- Filesmonster: Totalmente operativo salvo la búsqueda (disponible en breve)
+- Helixstudios: Totalmente operativo. - Neceesitas comprar/tener cuenta premium en Helixstudios.net
+- Filesmonster: Totalmente operativo salvo la búsqueda (disponible en breve) - Necesitas comprar/tener cuenta premium en Filesmonster.com
  
 
 # Como instalar los addons en Kodi:
