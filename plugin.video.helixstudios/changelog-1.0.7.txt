@@ -1,3 +1,7 @@
+Version 1.0.7: Changes in download page
+
+Version 1.0.6: Compatible with krypton
+
 Version 0.1.5: SSL error fixed in krypton
 
 Version 0.1.4: Adjust "next" button under Models tab
