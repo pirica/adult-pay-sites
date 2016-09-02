@@ -1,3 +1,5 @@
+Version 1.0.1: Fixed problem playing videos from favorites list. Search not avaliable yet.
+
 Version 1.0.0: Added support for folder (only shown in favorites list). Full compatible with Krypton
 
 Version 0.2.2: Full list of categories, changes list of items from 100 to 50 per page (searche and open folder not avaliable yet). Fixed download: now works properly
