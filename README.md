@@ -53,11 +53,12 @@ You can install our addons using by 2 diferent ways, choose the one that you pre
 ### Simple installation procedure.
 
 ### 1st - Install this repository in [Kodi*](https://kodi.tv/download/) 
-1.- Download repository.kodi.adult-pay-sites-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/adult-pay-sites/releases) and save in a folder accesible from Kodi.
+1a.- Download repository.kodi.adult-pay-sites-xxx.zip file from the "releases" tab or [from here](https://github.com/spaniard1978/adult-pay-sites/releases) and save in a folder accesible from Kodi.
+1b.- If you can't or if you don't want to download and upload the zip file to your kodi media center, you can user this URL as source  and download the zip directly from there: repo source -> http://www.adult-pay-sites.comlu.com/kodi-repo/
 
 2.- In Kodi go to system > settings > addons > install from zip
 
-3.- Browse and choose the zip file you have downloaded and install it
+3.- Browse and choose the zip file you have downloaded and install it or choos the repo source that you added  (if you chose the 1b option)
 
 4.- adtul-pay-sites repository is now in [Kodi*](https://kodi.tv/download/) ready to install and periodically update the addons that are inside
   
@@ -99,7 +100,7 @@ You can install our addons using by 2 diferent ways, choose the one that you pre
 
 # Mail contact:
 spaniard1978@mixmail.com
-  
+http://www.adult-pay-sites.comlu.com/
 .................................................................................................................................................................................
   
   
@@ -140,7 +141,8 @@ Puedes instalar un addon en kodi de 2 modos, elige el que prefieras y mejor se a
 ### Procedimiento simple de instalación.
 
 ### 1º - Instala the repositorio en [Kodi*](https://kodi.tv/download/) 
-1.- Descarga el archivo repository.kodi.adult-pay-sites-xxx.zip en la pestaña "releases" o [desde aquí](https://github.com/spaniard1978/adult-pay-sites/releases) y guárdalo en algún lugar accesible desde Kodi..
+1a.- Descarga el archivo repository.kodi.adult-pay-sites-xxx.zip en la pestaña "releases" o [desde aquí](https://github.com/spaniard1978/adult-pay-sites/releases) y guárdalo en algún lugar accesible desde Kodi..
+1b.- Alternativamente, si no puedes o no quieres descargar el archivo zip y subirlo a tu kodi media center, puedes usar esta URL como "fuente" en el "gestor de archivos" de modo que puedas instalar el zip del repositorio directamente desde allí: fuente -> http://www.adult-pay-sites.comlu.com/kodi-repo/
 
 2.- En Kodi ve  sistema > ajustes > addons > instalar desde archivo zip
 
@@ -185,3 +187,4 @@ Puedes instalar un addon en kodi de 2 modos, elige el que prefieras y mejor se a
 
 # Correo de contacto:
 spaniard1978@mixmail.com
+http://www.adult-pay-sites.comlu.com/
