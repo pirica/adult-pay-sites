@@ -47,7 +47,7 @@ You can install our addons using by 2 diferent ways, choose the one that you pre
 
 
 
-## MODE B: INSTALL ADUL-PAY-SITES REPO FROM A ZIP FILE AND THEN INSTALL THE ADDONS FROM KODI
+## MODE B: INSTALL ADULT-PAY-SITES REPO FROM A ZIP FILE AND THEN INSTALL THE ADDONS FROM KODI
 
 
 ### Simple installation procedure.
