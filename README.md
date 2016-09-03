@@ -101,6 +101,7 @@ You can install our addons using by 2 diferent ways, choose the one that you pre
 
 # Mail contact:
 spaniard1978@mixmail.com
+
 http://www.adult-pay-sites.comlu.com/
 .................................................................................................................................................................................
   
@@ -189,4 +190,5 @@ Puedes instalar un addon en kodi de 2 modos, elige el que prefieras y mejor se a
 
 # Correo de contacto:
 spaniard1978@mixmail.com
+
 http://www.adult-pay-sites.comlu.com/
