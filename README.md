@@ -23,7 +23,7 @@ Get the last version of kodi in www.kodi.tv
 
 ## Content of repo:
 - Helixstudios addon: Full operative - You need  to use/buy a premium account in Helixstudios.net.
-- Filesmonster addon: Full operative except search (avaliable soon) - You need to use/buy premium account in Filesmonster.com.
+- Filesmonster addon: Full operative including search - You need to use/buy premium account in Filesmonster.com.
 
 
 # How to install an Addon from this repo in Kodi:
@@ -116,7 +116,7 @@ spaniard1978@mixmail.com
 
 ## Contenido del repositorio
 - Helixstudios: Totalmente operativo. - Neceesitas comprar/tener cuenta premium en Helixstudios.net
-- Filesmonster: Totalmente operativo salvo la búsqueda (disponible en breve) - Necesitas comprar/tener cuenta premium en Filesmonster.com
+- Filesmonster: Totalmente operativo incluida la búsqueda - Necesitas comprar/tener cuenta premium en Filesmonster.com
  
 
 # Como instalar los addons en Kodi:
