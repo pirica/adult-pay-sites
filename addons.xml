@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.filesmonster" version="1.0.1" name="Filesmonster" provider-name="spaniard1978">
+<addon id="plugin.video.filesmonster" version="1.0.2" name="Filesmonster" provider-name="spaniard1978">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
 </requires>
@@ -30,7 +30,7 @@
 </extension>
 <extension point="xbmc.addon.metadata">
   <summary lang="en">Browse and download videos from helixstudios.net.</summary>
-  <description lang="en">Browse and download videos from helixstudios.net using your premium acount. Adult +18 Addon: You must be +18 years old (or legal age in your country) to use this Addon. Change language under seettings tab into the addon.
+  <description lang="en">Browse and download videos from helixstudios.net  using your premium acount. Adult +18 Addon: You must be +18 years old (or legal age in your country) to use this Addon. Change language under seettings tab into the addon.
 	   </description>
   <disclaimer lang="en">Videos from www.helixstudios.net, only avaliable using your premium acount. Adult +18 Addon: You must be +18 years old (or legal age in your country) to use this Addon. Avaliable in English and Spanish</disclaimer>
    <email>spaniard1978@mixmail.com</email>

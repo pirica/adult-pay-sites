@@ -1,3 +1,5 @@
+Version 1.0.2: Added search support. Now you can search between Filesmonster Catalog.
+
 Version 1.0.1: Fixed problem playing videos from favorites list. Search not avaliable yet.
 
 Version 1.0.0: Added support for folder (only shown in favorites list). Full compatible with Krypton

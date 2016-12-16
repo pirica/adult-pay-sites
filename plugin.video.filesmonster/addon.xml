@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.filesmonster" version="1.0.1" name="Filesmonster" provider-name="spaniard1978">
+<addon id="plugin.video.filesmonster" version="1.0.2" name="Filesmonster" provider-name="spaniard1978">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
 </requires>
